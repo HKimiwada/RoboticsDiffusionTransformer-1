@@ -198,6 +198,26 @@ def main():
                     done = True
                     break
         print(f"Trial {episode+1} finished, success: {info.get('success', False)}, steps: {global_steps}")
+        # After each trial ends:
+        if len(video_frames) > 0:
+            out_dir = "videos"
+            os.makedirs(out_dir, exist_ok=True)
+            video_path = os.path.join(out_dir, f"{env_id}_trial{episode+1}.mp4")
+
+            # video_frames are numpy arrays (H, W, 3)
+            h, w, _ = video_frames[0].shape
+            writer = cv2.VideoWriter(
+                video_path,
+                cv2.VideoWriter_fourcc(*"mp4v"),  # codec
+                20.0,  # FPS, adjust if too fast/slow
+                (w, h)
+            )
+
+            for frame in video_frames:
+                bgr = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)  # OpenCV expects BGR
+                writer.write(bgr)
+            writer.release()
+            print(f"Saved video: {video_path}")
 
     success_rate = success_count / total_episodes * 100
     print(f"Success rate: {success_rate:.2f}%")

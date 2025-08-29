@@ -184,3 +184,5 @@ hostfile.txt
 .deepspeed_env*.pt
 
 mp_rank_00_model_states.pt
+text_embed_StackCube-v1.pt
+videos

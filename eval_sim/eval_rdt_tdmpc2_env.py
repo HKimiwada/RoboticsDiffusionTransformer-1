@@ -1,0 +1,1 @@
+# Testing RDT-1B's ability on pick-ycb and turn-faucet tasks from ManiSkill2.
