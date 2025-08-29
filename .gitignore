@@ -181,7 +181,4 @@ wandb/
 
 # Distributed leaning
 hostfile.txt
-.deepspeed_env
-
-mp_rank_00_model_states.pt
-text_embed_StackCube-v1.pt
+.deepspeed_env*.pt
