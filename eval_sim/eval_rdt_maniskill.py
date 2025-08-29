@@ -1,3 +1,4 @@
+# python -m eval_sim.eval_rdt_maniskill --pretrained_path mp_rank_00_model_states.pt --env-id StackCube-v1 --lang_embeddings_path text_embed_StackCube-v1.pt
 from typing import Callable, List, Type
 import sys
 sys.path.append('/')
