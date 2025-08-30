@@ -185,4 +185,6 @@ hostfile.txt
 
 mp_rank_00_model_states.pt
 text_embed_StackCube-v1.pt
-videos
+text_embed_PickCube-v1.pt
+StackCube_Videos
+PickCube_Videos

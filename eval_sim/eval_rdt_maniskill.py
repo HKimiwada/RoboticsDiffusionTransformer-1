@@ -200,7 +200,7 @@ def main():
         print(f"Trial {episode+1} finished, success: {info.get('success', False)}, steps: {global_steps}")
         # After each trial ends:
         if len(video_frames) > 0:
-            out_dir = "videos"
+            out_dir = "PickCube_Videos"
             os.makedirs(out_dir, exist_ok=True)
             video_path = os.path.join(out_dir, f"{env_id}_trial{episode+1}.mp4")
 
