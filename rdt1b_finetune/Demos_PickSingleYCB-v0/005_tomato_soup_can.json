@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 3000,
+      "reset_kwargs": {
+        "seed": 3000,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          3.992706874672569e-05,
+          -0.0005631809612020588,
+          0.004307177367820991
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 3001,
+      "reset_kwargs": {
+        "seed": 3001,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0011509899548143854,
+          -0.0005324152548397132,
+          0.003347750253479387
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 3002,
+      "reset_kwargs": {
+        "seed": 3002,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.0001908467197920538,
+          0.0007576555192480572,
+          0.003661558123673081
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 3003,
+      "reset_kwargs": {
+        "seed": 3003,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.00048672940098239137,
+          0.0006045245054714377,
+          0.003660670715423253
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 3004,
+      "reset_kwargs": {
+        "seed": 3004,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          3.6975409529405034e-05,
+          -0.001816857985244169,
+          0.007284045219421387
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 3005,
+      "reset_kwargs": {
+        "seed": 3005,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0012774320529333888,
+          -0.0012387638218813724,
+          0.00745550461340827
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 3006,
+      "reset_kwargs": {
+        "seed": 3006,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0005324159365737713,
+          -0.00010375701244769164,
+          0.00450271200462854
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 3007,
+      "reset_kwargs": {
+        "seed": 3007,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.00032496883580157565,
+          0.000441836207353441,
+          0.0019899101962319587
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 3008,
+      "reset_kwargs": {
+        "seed": 3008,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.000589889671972571,
+          -8.207712647989585e-05,
+          0.003007277920846263
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 3009,
+      "reset_kwargs": {
+        "seed": 3009,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0009288450277826488,
+          0.0007822254221391267,
+          0.0019895283012638654
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 3010,
+      "reset_kwargs": {
+        "seed": 3010,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -0.00013450400540628016,
+          0.0013511202828654922,
+          0.002373662287009748
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 3011,
+      "reset_kwargs": {
+        "seed": 3011,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.003993656888945846,
+          -6.271875169094887e-05,
+          0.003878630668461225
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 3012,
+      "reset_kwargs": {
+        "seed": 3012,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          -2.623225310673105e-05,
+          -0.0019731618096706094,
+          0.0023533391174292984
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 3013,
+      "reset_kwargs": {
+        "seed": 3013,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.00028157440324141914,
+          0.00035123230120076565,
+          0.0015992100274814791
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 3014,
+      "reset_kwargs": {
+        "seed": 3014,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          -3.668973566758882e-05,
+          -0.00016928144775713028,
+          0.0018788594280767512
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 3015,
+      "reset_kwargs": {
+        "seed": 3015,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          4.419669354185918e-05,
+          -0.00013825810111200987,
+          0.0025046420257273105
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 3016,
+      "reset_kwargs": {
+        "seed": 3016,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0009348594724187531,
+          -0.0001428126108147798,
+          0.0009927501683214546
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 3017,
+      "reset_kwargs": {
+        "seed": 3017,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.00040933668811521384,
+          0.0003063934328217943,
+          0.003819189802325651
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 3018,
+      "reset_kwargs": {
+        "seed": 3018,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0012986303821444223,
+          -8.970374663164193e-05,
+          0.0038973863584410573
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 3019,
+      "reset_kwargs": {
+        "seed": 3019,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.00016202190602213062,
+          0.00016109827839466684,
+          0.003496448268994423
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 3020,
+      "reset_kwargs": {
+        "seed": 3020,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0007133474762247849,
+          -0.00026257300297610753,
+          0.0018267745667657764
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 3021,
+      "reset_kwargs": {
+        "seed": 3021,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0015764793078425487,
+          -0.0015631777415979209,
+          0.005499509089040233
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 3022,
+      "reset_kwargs": {
+        "seed": 3022,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0004999450983013132,
+          0.00043859216376490595,
+          0.0008759132666216751
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 3023,
+      "reset_kwargs": {
+        "seed": 3023,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0017568927756847208,
+          0.0007517765904662133,
+          0.002353629088974296
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 3024,
+      "reset_kwargs": {
+        "seed": 3024,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -3.004743955049849e-05,
+          -0.0002328364880378464,
+          0.002961018138438909
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 3025,
+      "reset_kwargs": {
+        "seed": 3025,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          -7.007066354725033e-05,
+          -0.0010235180835701518,
+          0.0028008990893919616
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 3026,
+      "reset_kwargs": {
+        "seed": 3026,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0002141592248479096,
+          -0.00046965498476930767,
+          0.003760863409839499
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 3027,
+      "reset_kwargs": {
+        "seed": 3027,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 162,
+      "info": {
+        "elapsed_steps": 162,
+        "obj_to_goal_pos": [
+          0.0002251253413373816,
+          -0.0014342386943532737,
+          0.005272179841995239
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 3028,
+      "reset_kwargs": {
+        "seed": 3028,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.0039233183783291825,
+          0.001851712241534853,
+          0.004367270875222873
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 3029,
+      "reset_kwargs": {
+        "seed": 3029,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          0.0015533889595803763,
+          -0.0003834152635431298,
+          0.003146334995986877
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 3030,
+      "reset_kwargs": {
+        "seed": 3030,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.000845035836624819,
+          0.00016804313547624794,
+          0.0036739699399494508
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 3031,
+      "reset_kwargs": {
+        "seed": 3031,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0006805382392374298,
+          -0.00032260456169069807,
+          0.003584280712521537
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 3032,
+      "reset_kwargs": {
+        "seed": 3032,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.00040326845629795605,
+          0.00030427691563678083,
+          0.002914637327194214
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 3033,
+      "reset_kwargs": {
+        "seed": 3033,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0008079237932679673,
+          0.0007303543180698369,
+          0.0028869872913824812
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 3034,
+      "reset_kwargs": {
+        "seed": 3034,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0003123720349524767,
+          -0.00038048214981939443,
+          0.002993844287266678
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 3035,
+      "reset_kwargs": {
+        "seed": 3035,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.0011392636489970243,
+          0.00234309767187324,
+          0.005096634739287231
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 3036,
+      "reset_kwargs": {
+        "seed": 3036,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.0008267586343670974,
+          -0.00033669834069932625,
+          0.002166160370896175
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 3037,
+      "reset_kwargs": {
+        "seed": 3037,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0010414842103287913,
+          0.0006351069998168368,
+          0.006538979376596921
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 3038,
+      "reset_kwargs": {
+        "seed": 3038,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.0001946381249068041,
+          0.00010605008947517369,
+          0.0025159716606140137
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 3039,
+      "reset_kwargs": {
+        "seed": 3039,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 102,
+      "info": {
+        "elapsed_steps": 102,
+        "obj_to_goal_pos": [
+          0.00077548948517564,
+          -0.000457396294493817,
+          0.0041008306623501745
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 3040,
+      "reset_kwargs": {
+        "seed": 3040,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.001209975630847987,
+          -3.807380744075273e-05,
+          0.0019860600059311007
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 3041,
+      "reset_kwargs": {
+        "seed": 3041,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00029500360739068143,
+          -0.00035302895231814624,
+          0.0036860406398773193
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 3042,
+      "reset_kwargs": {
+        "seed": 3042,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          -5.102683127666818e-05,
+          -7.534215148485846e-05,
+          0.003318990087630147
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 3043,
+      "reset_kwargs": {
+        "seed": 3043,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.0015965701633621487,
+          0.0017932254008113935,
+          0.000102910401373002
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 3044,
+      "reset_kwargs": {
+        "seed": 3044,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.00036879934774800005,
+          0.0011767093946621343,
+          0.0018356565565703087
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 3045,
+      "reset_kwargs": {
+        "seed": 3045,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0015007008122576992,
+          -0.00233676599775684,
+          0.0073704717129582376
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 3046,
+      "reset_kwargs": {
+        "seed": 3046,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 162,
+      "info": {
+        "elapsed_steps": 162,
+        "obj_to_goal_pos": [
+          0.0001193899159290801,
+          -0.0005847378861791874,
+          0.004330098628997803
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 3047,
+      "reset_kwargs": {
+        "seed": 3047,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0027753649732191465,
+          0.0014163117183619844,
+          0.007279207887107786
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 3048,
+      "reset_kwargs": {
+        "seed": 3048,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0009337478606231686,
+          0.0015917527931587627,
+          0.006126642057241782
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 3049,
+      "reset_kwargs": {
+        "seed": 3049,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0007447003937091634,
+          -0.0005837602017274013,
+          0.0051106789408141284
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 3050,
+      "reset_kwargs": {
+        "seed": 3050,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0019398590506009283,
+          -0.0005015367400525994,
+          0.003655430468183396
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 3051,
+      "reset_kwargs": {
+        "seed": 3051,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0014373946370475343,
+          0.0003647248180565499,
+          0.0031795273206464136
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 3052,
+      "reset_kwargs": {
+        "seed": 3052,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00030447968159744154,
+          -0.00012658525425002232,
+          0.0023304003500799197
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 3053,
+      "reset_kwargs": {
+        "seed": 3053,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.00019137538876237703,
+          0.00010620970519548134,
+          0.003106702948096396
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 3054,
+      "reset_kwargs": {
+        "seed": 3054,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0003399511257977106,
+          -0.0003238952207529344,
+          0.0023634170591425585
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 3055,
+      "reset_kwargs": {
+        "seed": 3055,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0001525872207682466,
+          -0.00021464371520002468,
+          0.0010925285165157561
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 3056,
+      "reset_kwargs": {
+        "seed": 3056,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 88,
+      "info": {
+        "elapsed_steps": 88,
+        "obj_to_goal_pos": [
+          0.000909684918779019,
+          -0.0008413258016592429,
+          0.0033117595390459442
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 3057,
+      "reset_kwargs": {
+        "seed": 3057,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0006069098681744933,
+          -0.002940714682574841,
+          0.0051686196379622795
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 3058,
+      "reset_kwargs": {
+        "seed": 3058,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          -0.00027337747059730244,
+          -0.0002488771043941962,
+          0.0038916868582232755
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 3060,
+      "reset_kwargs": {
+        "seed": 3060,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0009837320106156067,
+          3.930466600454707e-05,
+          0.0036196181140067396
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 3061,
+      "reset_kwargs": {
+        "seed": 3061,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0019163271234670792,
+          -0.0020299205646664986,
+          0.0027750373926968552
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 3062,
+      "reset_kwargs": {
+        "seed": 3062,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.00010176515241505646,
+          0.00035926911550998586,
+          0.001901331953767127
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 3063,
+      "reset_kwargs": {
+        "seed": 3063,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          -0.00025124302180656866,
+          0.00010309578757772275,
+          0.002096160996738039
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 3064,
+      "reset_kwargs": {
+        "seed": 3064,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0004204683521033259,
+          -0.0006416290881496867,
+          0.0028384471809630996
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 3065,
+      "reset_kwargs": {
+        "seed": 3065,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.00028186826067228,
+          -0.00034994301678126227,
+          0.004165426316439291
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 3066,
+      "reset_kwargs": {
+        "seed": 3066,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0008235899881120362,
+          4.8794302145105384e-05,
+          0.003492156311014405
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 3067,
+      "reset_kwargs": {
+        "seed": 3067,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.00011858103756384741,
+          -0.0007058903582419784,
+          0.003378289907580212
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 3068,
+      "reset_kwargs": {
+        "seed": 3068,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.00030409767921152353,
+          0.0006237852255724374,
+          0.0023551591043470266
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 3069,
+      "reset_kwargs": {
+        "seed": 3069,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.003118435406161385,
+          0.003331384890571054,
+          0.0047901335648598
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 3070,
+      "reset_kwargs": {
+        "seed": 3070,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.000415679325409285,
+          -0.00012814989789972087,
+          0.0023002350059982413
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 3071,
+      "reset_kwargs": {
+        "seed": 3071,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.000533412876543099,
+          -4.5251917768662775e-05,
+          0.0006517152646606794
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 3072,
+      "reset_kwargs": {
+        "seed": 3072,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          6.452364956030521e-05,
+          0.0022531463487259207,
+          0.0067983720954813975
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 3073,
+      "reset_kwargs": {
+        "seed": 3073,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 91,
+      "info": {
+        "elapsed_steps": 91,
+        "obj_to_goal_pos": [
+          0.0016225488731875515,
+          -0.00038429630838227036,
+          0.003304495119274109
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 3074,
+      "reset_kwargs": {
+        "seed": 3074,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.0005427804080420373,
+          -0.0001586368671349092,
+          0.0033503099966857852
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 3075,
+      "reset_kwargs": {
+        "seed": 3075,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0005026386796099236,
+          -0.00010790462082665986,
+          0.0034478981267382913
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 3076,
+      "reset_kwargs": {
+        "seed": 3076,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.00114277694468351,
+          -0.001435323734678362,
+          0.0028234501122429423
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 3077,
+      "reset_kwargs": {
+        "seed": 3077,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0002888241647869827,
+          -0.0009075286921829684,
+          0.002389243360889526
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 3078,
+      "reset_kwargs": {
+        "seed": 3078,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0003432392513566529,
+          0.0004201965775432748,
+          0.0026337747417619073
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 3079,
+      "reset_kwargs": {
+        "seed": 3079,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          1.9863481851928322e-05,
+          0.0006085319266468936,
+          0.004470024402193962
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 3080,
+      "reset_kwargs": {
+        "seed": 3080,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 164,
+      "info": {
+        "elapsed_steps": 164,
+        "obj_to_goal_pos": [
+          -0.0005024580043026527,
+          2.8190856044885138e-05,
+          0.003493010997772217
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 3081,
+      "reset_kwargs": {
+        "seed": 3081,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          0.000705523322198004,
+          -0.0005749019392816135,
+          0.003890395164489746
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 3082,
+      "reset_kwargs": {
+        "seed": 3082,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0007599065558302198,
+          0.0009732624008607638,
+          0.004630691098486517
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 3083,
+      "reset_kwargs": {
+        "seed": 3083,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0006102288635097264,
+          -0.00038838987722394913,
+          0.002825769028493519
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 3084,
+      "reset_kwargs": {
+        "seed": 3084,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          0.0002200195938605043,
+          0.0006259793871220554,
+          0.0051191747188568115
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 3085,
+      "reset_kwargs": {
+        "seed": 3085,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0021535680065370433,
+          -0.0025965979209671697,
+          0.005725737596215363
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 3086,
+      "reset_kwargs": {
+        "seed": 3086,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          -0.00018891411757657184,
+          0.0005949555559198738,
+          0.00230065792092915
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 3087,
+      "reset_kwargs": {
+        "seed": 3087,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0011948679256589823,
+          -0.002629507604786474,
+          0.0052667333268626715
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 3088,
+      "reset_kwargs": {
+        "seed": 3088,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0018673465311801196,
+          0.0019706848598476934,
+          0.003204960206766916
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 3089,
+      "reset_kwargs": {
+        "seed": 3089,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.00027806104729594106,
+          -0.00012825055837228927,
+          0.0022503526940125806
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 3090,
+      "reset_kwargs": {
+        "seed": 3090,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.0010834331051090967,
+          0.004778513288875019,
+          0.004769589494010795
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 3091,
+      "reset_kwargs": {
+        "seed": 3091,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0010563811050189609,
+          -2.1206094435732847e-05,
+          0.0032963153293429914
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 3092,
+      "reset_kwargs": {
+        "seed": 3092,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0008288378331341439,
+          -0.000945164672270904,
+          0.006326936688860585
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 3093,
+      "reset_kwargs": {
+        "seed": 3093,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0011137322692542917,
+          0.00036630145564314764,
+          0.004071068429335578
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 3094,
+      "reset_kwargs": {
+        "seed": 3094,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0005758635234190679,
+          -0.0003718613921369629,
+          0.00205293453931632
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 3095,
+      "reset_kwargs": {
+        "seed": 3095,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          -0.0005377103886215762,
+          -2.0319792841116957e-06,
+          0.0018357634544372559
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 3096,
+      "reset_kwargs": {
+        "seed": 3096,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0010091661744620062,
+          -0.0007708892344742146,
+          0.0014028016079392636
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 3097,
+      "reset_kwargs": {
+        "seed": 3097,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0004903497443597138,
+          0.0005788237779404404,
+          0.0014892118439301938
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 3098,
+      "reset_kwargs": {
+        "seed": 3098,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0016701159452288394,
+          0.0002520862306644167,
+          0.00502115391374397
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 3099,
+      "reset_kwargs": {
+        "seed": 3099,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.0005690984142567024,
+          -0.0006739114710599958,
+          0.00610235333442688
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 3100,
+      "reset_kwargs": {
+        "seed": 3100,
+        "model_id": "005_tomato_soup_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.000571457819144458,
+          0.00019215759482921202,
+          0.0010842378498867045
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

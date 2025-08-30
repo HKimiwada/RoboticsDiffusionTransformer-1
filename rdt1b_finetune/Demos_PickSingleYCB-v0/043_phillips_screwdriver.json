@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 32000,
+      "reset_kwargs": {
+        "seed": 32000,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0006734588686380938,
+          -0.00023418335346298003,
+          0.0009319031900467678
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 32001,
+      "reset_kwargs": {
+        "seed": 32001,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0005232516873649173,
+          -0.000739921153984413,
+          0.0004682182406592905
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 32002,
+      "reset_kwargs": {
+        "seed": 32002,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0017526620966578643,
+          -0.0006459386302267722,
+          0.003614889165562518
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 32003,
+      "reset_kwargs": {
+        "seed": 32003,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          -5.9335966646312244e-05,
+          5.893276780183365e-05,
+          0.00029546808313962725
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 32004,
+      "reset_kwargs": {
+        "seed": 32004,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0010713088966864126,
+          0.00026436619210412626,
+          0.0011241448529129006
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 32005,
+      "reset_kwargs": {
+        "seed": 32005,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          -0.0013816526344744007,
+          -0.0005415811427502137,
+          0.00068175051695335
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 32006,
+      "reset_kwargs": {
+        "seed": 32006,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 174,
+      "info": {
+        "elapsed_steps": 174,
+        "obj_to_goal_pos": [
+          0.0016996398808105384,
+          0.00045296199623307,
+          0.003593163075940875
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 32007,
+      "reset_kwargs": {
+        "seed": 32007,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.00010384962872503345,
+          0.0002704815640162672,
+          0.0007598417810733005
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 32008,
+      "reset_kwargs": {
+        "seed": 32008,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          -0.0016629492544731062,
+          -0.00015863711770980338,
+          0.004419283033585686
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 32009,
+      "reset_kwargs": {
+        "seed": 32009,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          -0.0007420543753772352,
+          -0.0002819014739922632,
+          0.0015015958573035837
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 32010,
+      "reset_kwargs": {
+        "seed": 32010,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -0.0003322260336021121,
+          0.0014848142939079545,
+          0.0006870867237978029
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 32011,
+      "reset_kwargs": {
+        "seed": 32011,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 102,
+      "info": {
+        "elapsed_steps": 102,
+        "obj_to_goal_pos": [
+          0.0006346887581270555,
+          0.00016572679511511756,
+          0.0017325613054043898
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 32012,
+      "reset_kwargs": {
+        "seed": 32012,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.00019038684842548337,
+          -0.0003397461000045343,
+          0.00043278493466025747
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 32013,
+      "reset_kwargs": {
+        "seed": 32013,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          -0.0006915651983992466,
+          0.001084243917347405,
+          0.0010755665728216512
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 32014,
+      "reset_kwargs": {
+        "seed": 32014,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.0009672855603729408,
+          -0.0004949237445805998,
+          0.00060575756398773
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 32015,
+      "reset_kwargs": {
+        "seed": 32015,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 175,
+      "info": {
+        "elapsed_steps": 175,
+        "obj_to_goal_pos": [
+          0.0011706352617803228,
+          0.0007204753486818039,
+          0.003963291645050049
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 32016,
+      "reset_kwargs": {
+        "seed": 32016,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -8.284566006017124e-06,
+          -0.0004465342722483334,
+          0.00011994783147778465
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 32017,
+      "reset_kwargs": {
+        "seed": 32017,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0001899248483802074,
+          -0.00014073721836399544,
+          0.0017025172710418701
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 32018,
+      "reset_kwargs": {
+        "seed": 32018,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.0005197645692654462,
+          0.00018860422732214221,
+          0.0015045598982962871
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 32019,
+      "reset_kwargs": {
+        "seed": 32019,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          -0.0007992486322076775,
+          -0.0010732695058442987,
+          0.001622418059114339
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 32021,
+      "reset_kwargs": {
+        "seed": 32021,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0010615494954178961,
+          0.0007801808908376451,
+          0.0012450799177252114
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 32022,
+      "reset_kwargs": {
+        "seed": 32022,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0008098396978932498,
+          -0.0003810966002367189,
+          0.0010449475215278947
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 32023,
+      "reset_kwargs": {
+        "seed": 32023,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0002739048978692704,
+          5.871036155014053e-06,
+          0.00033502570442067725
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 32024,
+      "reset_kwargs": {
+        "seed": 32024,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0005106357096513192,
+          -0.00024040150000831373,
+          0.0008777051684791815
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 32025,
+      "reset_kwargs": {
+        "seed": 32025,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -1.543456150704392e-05,
+          7.823311033272606e-05,
+          -0.0002868138946685028
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 32026,
+      "reset_kwargs": {
+        "seed": 32026,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          7.19039046923331e-05,
+          -4.022379779528018e-05,
+          0.00020394882025331906
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 32027,
+      "reset_kwargs": {
+        "seed": 32027,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0002772844453552137,
+          0.0002475852179643634,
+          0.00136421309057716
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 32028,
+      "reset_kwargs": {
+        "seed": 32028,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.0002701035218501402,
+          -0.0015102210710826736,
+          0.0015378986510549142
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 32029,
+      "reset_kwargs": {
+        "seed": 32029,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 162,
+      "info": {
+        "elapsed_steps": 162,
+        "obj_to_goal_pos": [
+          -0.0027280730857634217,
+          -0.00026677816726367043,
+          0.0024460537963670315
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 32030,
+      "reset_kwargs": {
+        "seed": 32030,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.001625686247538588,
+          -0.0008339992215153358,
+          0.0019429065232298148
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 32031,
+      "reset_kwargs": {
+        "seed": 32031,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          7.248046891464299e-05,
+          -0.0001411148690063091,
+          0.0009512786131242734
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 32032,
+      "reset_kwargs": {
+        "seed": 32032,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 181,
+      "info": {
+        "elapsed_steps": 181,
+        "obj_to_goal_pos": [
+          0.0008383438678168098,
+          -0.0007455415762811501,
+          0.0030819975461660043
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 32033,
+      "reset_kwargs": {
+        "seed": 32033,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          -0.00027712052259086517,
+          0.0008201175995913301,
+          0.0021955905705279277
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 32034,
+      "reset_kwargs": {
+        "seed": 32034,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 177,
+      "info": {
+        "elapsed_steps": 177,
+        "obj_to_goal_pos": [
+          0.00010291015782097623,
+          0.0005079922335414766,
+          0.0010988756824494295
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 32035,
+      "reset_kwargs": {
+        "seed": 32035,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.00031056338353444013,
+          0.0004136254195429845,
+          0.000333190223223645
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 32036,
+      "reset_kwargs": {
+        "seed": 32036,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.000307329018904845,
+          0.0003864827717059982,
+          0.00035627277189770323
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 32037,
+      "reset_kwargs": {
+        "seed": 32037,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          -0.00018438692212033314,
+          8.077245060666982e-05,
+          0.0004911776863207318
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 32038,
+      "reset_kwargs": {
+        "seed": 32038,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.00034138940399004725,
+          0.00011036905932698682,
+          0.0008057562066269841
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 32039,
+      "reset_kwargs": {
+        "seed": 32039,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.0009255275385373074,
+          -0.0005019374208209415,
+          0.0019034997246194507
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 32040,
+      "reset_kwargs": {
+        "seed": 32040,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          0.0004720813798730905,
+          -0.0005331460867002424,
+          0.006496906280517578
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 32041,
+      "reset_kwargs": {
+        "seed": 32041,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 173,
+      "info": {
+        "elapsed_steps": 173,
+        "obj_to_goal_pos": [
+          -5.268752860718151e-05,
+          1.1425468147308049e-05,
+          0.0015458088585703078
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 32042,
+      "reset_kwargs": {
+        "seed": 32042,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 102,
+      "info": {
+        "elapsed_steps": 102,
+        "obj_to_goal_pos": [
+          0.0004964730671574435,
+          -0.0007243932742498349,
+          0.0013606469813069455
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 32043,
+      "reset_kwargs": {
+        "seed": 32043,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          2.1609208714593042e-05,
+          0.00046703488730509557,
+          0.0014368090295077685
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 32044,
+      "reset_kwargs": {
+        "seed": 32044,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          -8.78249664493097e-05,
+          1.8022271659312583e-05,
+          0.00033956905346566035
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 32045,
+      "reset_kwargs": {
+        "seed": 32045,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0005980445374887122,
+          -0.00013843985401179593,
+          0.0014106765300817559
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 32046,
+      "reset_kwargs": {
+        "seed": 32046,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.00036824956700581835,
+          6.843170792414366e-05,
+          0.00033986292979665267
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 32047,
+      "reset_kwargs": {
+        "seed": 32047,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 186,
+      "info": {
+        "elapsed_steps": 186,
+        "obj_to_goal_pos": [
+          -0.0005600737693662594,
+          0.0011198364181592146,
+          0.000940851047013247
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 32048,
+      "reset_kwargs": {
+        "seed": 32048,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0008150888080634411,
+          -0.0006136180002444536,
+          0.0013611251591659213
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 32049,
+      "reset_kwargs": {
+        "seed": 32049,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          -0.00044099933772480393,
+          0.0002864718041574732,
+          0.0011812802271444767
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 32050,
+      "reset_kwargs": {
+        "seed": 32050,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0007223170361183584,
+          -0.002062815574425003,
+          0.0036747605378294468
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 32051,
+      "reset_kwargs": {
+        "seed": 32051,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          -4.668756636705407e-05,
+          0.0003059254703788872,
+          0.0007932095223025515
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 32052,
+      "reset_kwargs": {
+        "seed": 32052,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.00027976967903656225,
+          4.529489516275076e-05,
+          0.0013327170136241406
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 32053,
+      "reset_kwargs": {
+        "seed": 32053,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 172,
+      "info": {
+        "elapsed_steps": 172,
+        "obj_to_goal_pos": [
+          0.00012658370272580766,
+          0.0003854311603709304,
+          4.052428074480252e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 32054,
+      "reset_kwargs": {
+        "seed": 32054,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          -0.0001915715067737911,
+          7.408757276405886e-05,
+          0.0006750404105331231
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 32055,
+      "reset_kwargs": {
+        "seed": 32055,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          0.0007967870641519825,
+          -0.0006558337345417553,
+          0.001682448450147589
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 32056,
+      "reset_kwargs": {
+        "seed": 32056,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.00022658391453564408,
+          -0.00014956069655658322,
+          0.0009633581486964138
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 32057,
+      "reset_kwargs": {
+        "seed": 32057,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.0005045243854724657,
+          0.0008516188154564786,
+          0.000675268479266411
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 32058,
+      "reset_kwargs": {
+        "seed": 32058,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          -3.4720163216761524e-05,
+          -0.00016082018207136395,
+          0.0002692261130292639
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 32059,
+      "reset_kwargs": {
+        "seed": 32059,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.00042151814713201063,
+          -0.0004797923845804575,
+          0.0016355174104509818
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 32060,
+      "reset_kwargs": {
+        "seed": 32060,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0002765128060506217,
+          0.00031872554295991895,
+          0.00047495765296950987
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 32062,
+      "reset_kwargs": {
+        "seed": 32062,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          -0.0008943190785944549,
+          0.0007302329413532704,
+          0.0011435254493731284
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 32063,
+      "reset_kwargs": {
+        "seed": 32063,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          -0.00046238491946801186,
+          5.85829499950008e-05,
+          0.0010217889192474794
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 32064,
+      "reset_kwargs": {
+        "seed": 32064,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 178,
+      "info": {
+        "elapsed_steps": 178,
+        "obj_to_goal_pos": [
+          -0.00011951211138935824,
+          -0.00043325121068754635,
+          0.0015665292739868164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 32065,
+      "reset_kwargs": {
+        "seed": 32065,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          -7.509303396399658e-05,
+          -0.0012789943942124737,
+          0.002210557464457974
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 32066,
+      "reset_kwargs": {
+        "seed": 32066,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          -0.00010302344761586868,
+          -0.0003462446690746246,
+          0.0004342313027594913
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 32067,
+      "reset_kwargs": {
+        "seed": 32067,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.00104499725422183,
+          -0.0002988985902822594,
+          0.0010996948498538384
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 32068,
+      "reset_kwargs": {
+        "seed": 32068,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.0021343949511634375,
+          -0.00010484544744199242,
+          0.003006453756202898
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 32069,
+      "reset_kwargs": {
+        "seed": 32069,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0006765874621164347,
+          -0.0002907143870286011,
+          0.001270746166474046
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 32070,
+      "reset_kwargs": {
+        "seed": 32070,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0007652444427802552,
+          0.00018748363522153033,
+          0.0008923373719115224
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 32071,
+      "reset_kwargs": {
+        "seed": 32071,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 180,
+      "info": {
+        "elapsed_steps": 180,
+        "obj_to_goal_pos": [
+          -8.053366294782927e-05,
+          -0.0002511128991903866,
+          0.0015613934159090515
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 32072,
+      "reset_kwargs": {
+        "seed": 32072,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.0007528321447317909,
+          0.0003107431136433192,
+          0.0011171110427744546
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 32073,
+      "reset_kwargs": {
+        "seed": 32073,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          0.0019345951396982641,
+          -0.0013715249303415944,
+          0.0031198913967309116
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 32074,
+      "reset_kwargs": {
+        "seed": 32074,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          2.2186055567904872e-05,
+          -0.0007409871296272241,
+          0.0017119683576609646
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 32075,
+      "reset_kwargs": {
+        "seed": 32075,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          0.00020733140509067438,
+          0.0005438692899669695,
+          0.0002890100426326536
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 32076,
+      "reset_kwargs": {
+        "seed": 32076,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          -0.0007868285603442049,
+          -0.00019947659423402708,
+          0.003465889096423036
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 32078,
+      "reset_kwargs": {
+        "seed": 32078,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 162,
+      "info": {
+        "elapsed_steps": 162,
+        "obj_to_goal_pos": [
+          -0.00028489429464684246,
+          0.000200820948369429,
+          0.00046756863594055176
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 32079,
+      "reset_kwargs": {
+        "seed": 32079,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          3.306489431721682e-05,
+          0.0008012950606419156,
+          0.001593444050932591
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 32080,
+      "reset_kwargs": {
+        "seed": 32080,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0002475308961046724,
+          -0.0002851923496464126,
+          0.0012224847102660363
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 32081,
+      "reset_kwargs": {
+        "seed": 32081,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0008193556483755554,
+          -0.0008538515323506246,
+          0.0007398772993506553
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 32082,
+      "reset_kwargs": {
+        "seed": 32082,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          -0.0027767585696391317,
+          0.0013626969617521745,
+          0.0024659281199941874
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 32083,
+      "reset_kwargs": {
+        "seed": 32083,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.0004798643377806888,
+          0.0005421191718101293,
+          0.0019349875598539956
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 32084,
+      "reset_kwargs": {
+        "seed": 32084,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 165,
+      "info": {
+        "elapsed_steps": 165,
+        "obj_to_goal_pos": [
+          0.0003302671127331791,
+          0.0005987327961229916,
+          0.0007468260935761806
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 32085,
+      "reset_kwargs": {
+        "seed": 32085,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          -0.0006018238377214491,
+          0.002249085108758042,
+          0.002089852694167782
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 32086,
+      "reset_kwargs": {
+        "seed": 32086,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.00012899585282606651,
+          -9.508865999130478e-05,
+          -5.844872390914357e-06
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 32087,
+      "reset_kwargs": {
+        "seed": 32087,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          -8.944265679705632e-05,
+          0.0002905987878508154,
+          0.0013685606242310744
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 32088,
+      "reset_kwargs": {
+        "seed": 32088,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0005902710601138894,
+          0.0007139541796413185,
+          0.001322773561601931
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 32089,
+      "reset_kwargs": {
+        "seed": 32089,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.0002936174082782683,
+          -0.0015581052876723622,
+          0.0024167699418278787
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 32090,
+      "reset_kwargs": {
+        "seed": 32090,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.0008515408860885199,
+          3.647506479831364e-05,
+          0.0009052560266345488
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 32091,
+      "reset_kwargs": {
+        "seed": 32091,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0005367618209745628,
+          -0.0005396287572103642,
+          0.0016749777319930437
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 32092,
+      "reset_kwargs": {
+        "seed": 32092,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 173,
+      "info": {
+        "elapsed_steps": 173,
+        "obj_to_goal_pos": [
+          -2.821575081049521e-05,
+          0.0004149324379002506,
+          0.001801569558445737
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 32093,
+      "reset_kwargs": {
+        "seed": 32093,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          -0.0004408811513222921,
+          -0.0013340756271081333,
+          0.0017450291023969888
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 32094,
+      "reset_kwargs": {
+        "seed": 32094,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 178,
+      "info": {
+        "elapsed_steps": 178,
+        "obj_to_goal_pos": [
+          -7.20537670846344e-05,
+          -0.0003707684451677018,
+          0.0011053115251597467
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 32095,
+      "reset_kwargs": {
+        "seed": 32095,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          0.0005111020772069763,
+          -3.504502289597422e-05,
+          0.001183043069864942
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 32096,
+      "reset_kwargs": {
+        "seed": 32096,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -0.002966149302590565,
+          -0.000420926368679686,
+          0.002864629030227661
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 32097,
+      "reset_kwargs": {
+        "seed": 32097,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0011601939493313673,
+          3.042419977727917e-06,
+          0.0012824140054715771
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 32098,
+      "reset_kwargs": {
+        "seed": 32098,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.000248279117511796,
+          2.886936553214703e-05,
+          0.0015967302537603922
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 32099,
+      "reset_kwargs": {
+        "seed": 32099,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.000615996324386428,
+          -0.0007978957772087347,
+          0.0019887303916428234
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 32100,
+      "reset_kwargs": {
+        "seed": 32100,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          -0.0004252180577235254,
+          0.00032308700692573744,
+          6.192930786969031e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 32101,
+      "reset_kwargs": {
+        "seed": 32101,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          -5.211643351724082e-05,
+          0.0009108039082340591,
+          -0.0005294638462740586
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 32102,
+      "reset_kwargs": {
+        "seed": 32102,
+        "model_id": "043_phillips_screwdriver"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0038530761916004963,
+          -0.0009424054154110739,
+          0.0037878213795929927
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

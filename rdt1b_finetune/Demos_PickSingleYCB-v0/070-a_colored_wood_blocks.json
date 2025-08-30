@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 58000,
+      "reset_kwargs": {
+        "seed": 58000,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          -0.0002473127406216469,
+          -0.0008303123210097185,
+          0.0033804476261138916
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 58001,
+      "reset_kwargs": {
+        "seed": 58001,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -6.978560484857677e-05,
+          0.0001877906659169537,
+          0.00113213885538066
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 58002,
+      "reset_kwargs": {
+        "seed": 58002,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          7.078079240413482e-05,
+          -0.0007955481937648723,
+          0.0036934316158294678
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 58003,
+      "reset_kwargs": {
+        "seed": 58003,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00023287209577096957,
+          -0.00042799570641333107,
+          0.0033230995421981713
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 58004,
+      "reset_kwargs": {
+        "seed": 58004,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0003790512416473324,
+          0.000431827744375779,
+          0.0022988396965115676
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 58005,
+      "reset_kwargs": {
+        "seed": 58005,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0006209108305567645,
+          0.000307791338081731,
+          0.002177642031163163
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 58006,
+      "reset_kwargs": {
+        "seed": 58006,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0005323119747879523,
+          0.00027458686137449284,
+          0.0037230545120526815
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 58007,
+      "reset_kwargs": {
+        "seed": 58007,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0007769251284741041,
+          -0.00039614213427391354,
+          0.0035202046865424053
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 58008,
+      "reset_kwargs": {
+        "seed": 58008,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -0.00035071637511704945,
+          8.314634844019952e-06,
+          0.002031893378536931
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 58009,
+      "reset_kwargs": {
+        "seed": 58009,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0008758300067746583,
+          0.0007381930393145497,
+          0.003619707154281393
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 58010,
+      "reset_kwargs": {
+        "seed": 58010,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0009719702525696761,
+          9.540900536270103e-05,
+          0.0031346381369647403
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 58011,
+      "reset_kwargs": {
+        "seed": 58011,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0009433750791228712,
+          -0.0006578338173222065,
+          0.003543670045092817
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 58012,
+      "reset_kwargs": {
+        "seed": 58012,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.00034681265483907375,
+          -0.0018356969042463422,
+          0.0049893956065897305
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 58013,
+      "reset_kwargs": {
+        "seed": 58013,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.00041187324071292886,
+          -0.00013531559071483512,
+          0.0035595297813415527
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 58014,
+      "reset_kwargs": {
+        "seed": 58014,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          0.0017113905698417642,
+          -0.001623885272267922,
+          0.0018817523167754535
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 58015,
+      "reset_kwargs": {
+        "seed": 58015,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0011026371960196069,
+          -5.209206003126132e-05,
+          0.003357133745323815
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 58016,
+      "reset_kwargs": {
+        "seed": 58016,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.002644990053242896,
+          -0.00021220298305868468,
+          0.005022546681324902
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 58017,
+      "reset_kwargs": {
+        "seed": 58017,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0010301981944246252,
+          0.00025447348961671334,
+          0.0035627758403457
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 58018,
+      "reset_kwargs": {
+        "seed": 58018,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0025537384595473167,
+          0.0023472004881273656,
+          0.0029033307508366524
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 58019,
+      "reset_kwargs": {
+        "seed": 58019,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.00011200527960383844,
+          0.00014296341575087412,
+          0.0023001401286428247
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 58020,
+      "reset_kwargs": {
+        "seed": 58020,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.00041041001947797473,
+          -0.0006665635550274218,
+          0.0024887505943876342
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 58021,
+      "reset_kwargs": {
+        "seed": 58021,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -7.811155141784765e-06,
+          -0.00010019673813316254,
+          0.0015664562263458248
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 58022,
+      "reset_kwargs": {
+        "seed": 58022,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          1.1040900785325158e-05,
+          -0.000710392028991369,
+          0.001076964292847038
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 58023,
+      "reset_kwargs": {
+        "seed": 58023,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.00037631522999667655,
+          -4.811862162196201e-05,
+          0.0017700748703136093
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 58024,
+      "reset_kwargs": {
+        "seed": 58024,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          -0.0002498897398366118,
+          0.0006670606386769973,
+          0.003212160852013257
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 58025,
+      "reset_kwargs": {
+        "seed": 58025,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0010510061065668042,
+          0.001125861104576742,
+          0.001568236196494377
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 58026,
+      "reset_kwargs": {
+        "seed": 58026,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0003196923917229144,
+          -0.00023826695430129163,
+          0.006534874439239502
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 58027,
+      "reset_kwargs": {
+        "seed": 58027,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.000463222675663455,
+          5.0595770032468845e-05,
+          0.005810469388961792
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 58028,
+      "reset_kwargs": {
+        "seed": 58028,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00047355708829419085,
+          -0.000291425803298051,
+          0.0016203726972708332
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 58029,
+      "reset_kwargs": {
+        "seed": 58029,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0034019651268536732,
+          -0.0014748822688561702,
+          0.004893961804882163
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 58030,
+      "reset_kwargs": {
+        "seed": 58030,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.001603923863210871,
+          0.00015513545327983103,
+          0.005281388281685118
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 58031,
+      "reset_kwargs": {
+        "seed": 58031,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0006748340380202111,
+          6.326774649456635e-05,
+          0.0031513929736807778
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 58032,
+      "reset_kwargs": {
+        "seed": 58032,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.00018455335567035824,
+          0.00046630177052353616,
+          0.003735932534198183
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 58033,
+      "reset_kwargs": {
+        "seed": 58033,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 97,
+      "info": {
+        "elapsed_steps": 97,
+        "obj_to_goal_pos": [
+          0.0003332821230312838,
+          0.0007770172548733356,
+          0.001627931850161135
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 58034,
+      "reset_kwargs": {
+        "seed": 58034,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.0004888277736574131,
+          -0.00020891280193396922,
+          0.0015436410903930664
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 58035,
+      "reset_kwargs": {
+        "seed": 58035,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.00020102674421218492,
+          0.0002966134334682624,
+          0.0019474761432450305
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 58036,
+      "reset_kwargs": {
+        "seed": 58036,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          9.114981078453543e-05,
+          0.0004283300273179025,
+          0.0018557609197613067
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 58037,
+      "reset_kwargs": {
+        "seed": 58037,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0004768235389311648,
+          -0.00014784080472368677,
+          0.001168485179779133
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 58038,
+      "reset_kwargs": {
+        "seed": 58038,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00011096068168653384,
+          0.0002956828223278918,
+          0.0025396347045898438
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 58039,
+      "reset_kwargs": {
+        "seed": 58039,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -3.73949238617749e-05,
+          0.0003662090401158613,
+          0.0023781891410202816
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 58040,
+      "reset_kwargs": {
+        "seed": 58040,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0008915275086603669,
+          0.00030884464301222936,
+          0.003953956559636429
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 58041,
+      "reset_kwargs": {
+        "seed": 58041,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          6.355030179253096e-05,
+          0.00043678995013324284,
+          0.0013747959423220935
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 58042,
+      "reset_kwargs": {
+        "seed": 58042,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          -0.0014916713272874194,
+          -0.0016004224609362239,
+          -0.0003164251309044075
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 58043,
+      "reset_kwargs": {
+        "seed": 58043,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          0.00019405113291481868,
+          -0.0008495078007370593,
+          0.0029008067553020767
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 58044,
+      "reset_kwargs": {
+        "seed": 58044,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          -1.2631436453275358e-05,
+          -2.4671731238545824e-06,
+          0.0022357753874752695
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 58045,
+      "reset_kwargs": {
+        "seed": 58045,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0005211329917470808,
+          -1.9005009135375506e-05,
+          0.0020563325923488307
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 58046,
+      "reset_kwargs": {
+        "seed": 58046,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.0012896760961143283,
+          0.0006574601231421062,
+          0.0038123117609884516
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 58047,
+      "reset_kwargs": {
+        "seed": 58047,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.00020372695122448936,
+          0.0006624533748276762,
+          0.005257246698438911
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 58048,
+      "reset_kwargs": {
+        "seed": 58048,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -3.238989800341541e-05,
+          -0.0002716417805894711,
+          0.0014399950968204678
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 58049,
+      "reset_kwargs": {
+        "seed": 58049,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.0007376372972992817,
+          -0.00025379759707366834,
+          0.003503353757862926
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 58050,
+      "reset_kwargs": {
+        "seed": 58050,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          5.9235689233008704e-05,
+          0.00022450397185969084,
+          0.0026068468936048528
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 58051,
+      "reset_kwargs": {
+        "seed": 58051,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          -0.00012547857136922802,
+          0.000481813974316847,
+          0.0029848398870384596
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 58052,
+      "reset_kwargs": {
+        "seed": 58052,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.00010972001379103147,
+          0.00017233573142699798,
+          0.0036601719779732478
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 58053,
+      "reset_kwargs": {
+        "seed": 58053,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          0.0008095671494703915,
+          -0.0010019842509410015,
+          0.00629050322583985
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 58054,
+      "reset_kwargs": {
+        "seed": 58054,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0003094902919450193,
+          -3.817117829663097e-05,
+          0.0025385484604123487
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 58055,
+      "reset_kwargs": {
+        "seed": 58055,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0009529698322647551,
+          0.0006879118489601654,
+          0.0031615529646757956
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 58056,
+      "reset_kwargs": {
+        "seed": 58056,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          -0.000428000327418937,
+          -0.0006608654229490751,
+          0.0030467024986000624
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 58057,
+      "reset_kwargs": {
+        "seed": 58057,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.0005089275397928417,
+          0.00012990541309182424,
+          0.0035487115383148193
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 58058,
+      "reset_kwargs": {
+        "seed": 58058,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.0007334151724590621,
+          6.51307653483646e-05,
+          0.0035542759624433984
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 58059,
+      "reset_kwargs": {
+        "seed": 58059,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.00044263343536234123,
+          -0.00044901758544274584,
+          0.004383250474271072
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 58060,
+      "reset_kwargs": {
+        "seed": 58060,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0008418253215536076,
+          -0.0004028341577439476,
+          0.0028965630047199653
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 58061,
+      "reset_kwargs": {
+        "seed": 58061,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0016386323392243995,
+          -0.00021735017669932688,
+          0.003205176833282808
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 58062,
+      "reset_kwargs": {
+        "seed": 58062,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0005464002848949434,
+          0.0007273693269363446,
+          0.002667533567963176
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 58063,
+      "reset_kwargs": {
+        "seed": 58063,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.00025494267306247487,
+          -0.0007868280269014427,
+          0.003131111815331211
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 58064,
+      "reset_kwargs": {
+        "seed": 58064,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 162,
+      "info": {
+        "elapsed_steps": 162,
+        "obj_to_goal_pos": [
+          0.0004079960295250429,
+          6.734691793364167e-05,
+          0.004326015604327882
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 58065,
+      "reset_kwargs": {
+        "seed": 58065,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0001689846128759137,
+          0.00017517079283208004,
+          0.0036518644743543383
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 58066,
+      "reset_kwargs": {
+        "seed": 58066,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0012971391961837941,
+          0.00039197221429260187,
+          0.004060138673923908
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 58067,
+      "reset_kwargs": {
+        "seed": 58067,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0004665944382839793,
+          -0.0005158473346605352,
+          0.0050746323997989395
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 58068,
+      "reset_kwargs": {
+        "seed": 58068,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 170,
+      "info": {
+        "elapsed_steps": 170,
+        "obj_to_goal_pos": [
+          0.0008219502658071143,
+          8.274456473711389e-05,
+          0.005758794103114806
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 58069,
+      "reset_kwargs": {
+        "seed": 58069,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          -0.00012871088901866834,
+          0.00047666957666031573,
+          0.0037900347414338564
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 58070,
+      "reset_kwargs": {
+        "seed": 58070,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          9.790351369629025e-05,
+          -0.00017210729567423977,
+          0.0033355378827170656
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 58071,
+      "reset_kwargs": {
+        "seed": 58071,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -0.00011149222925796454,
+          -5.493219102420399e-05,
+          0.003362262123724591
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 58072,
+      "reset_kwargs": {
+        "seed": 58072,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0010422431180907021,
+          0.0005673859416710503,
+          0.0032024750823969605
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 58073,
+      "reset_kwargs": {
+        "seed": 58073,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0011524142845379531,
+          -0.002908618883660785,
+          0.007745288174874632
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 58074,
+      "reset_kwargs": {
+        "seed": 58074,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0011837302803633654,
+          -0.00012091083239568201,
+          0.0022549952876587676
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 58075,
+      "reset_kwargs": {
+        "seed": 58075,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          7.457952139619528e-05,
+          0.00033956436887511154,
+          0.0030722453707319186
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 58076,
+      "reset_kwargs": {
+        "seed": 58076,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          3.6968090428329825e-05,
+          -0.0003922388490412154,
+          0.002150912104628089
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 58077,
+      "reset_kwargs": {
+        "seed": 58077,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.000441328140485836,
+          -0.00012810031798293764,
+          0.0036220186563526435
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 58078,
+      "reset_kwargs": {
+        "seed": 58078,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.0009018072076312222,
+          -0.00019622799474944275,
+          0.0032756926138815534
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 58079,
+      "reset_kwargs": {
+        "seed": 58079,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0011351310141776982,
+          -0.0014770698895220091,
+          0.0016945894589893706
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 58080,
+      "reset_kwargs": {
+        "seed": 58080,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0003390137807492699,
+          -0.00011311582475687088,
+          0.001162637786752685
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 58081,
+      "reset_kwargs": {
+        "seed": 58081,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.003422293443342911,
+          -0.0008369773672087799,
+          0.0060305259688446244
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 58082,
+      "reset_kwargs": {
+        "seed": 58082,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -8.07036629756619e-05,
+          -1.3794661569921374e-05,
+          0.0033733323327713727
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 58083,
+      "reset_kwargs": {
+        "seed": 58083,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -0.0005171209607009175,
+          0.00019679391982507788,
+          0.0025544166564941406
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 58084,
+      "reset_kwargs": {
+        "seed": 58084,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0015860520370370446,
+          -0.0004808071572046102,
+          0.003332204402205441
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 58085,
+      "reset_kwargs": {
+        "seed": 58085,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0009205272309501522,
+          0.001018284728529717,
+          0.002725730390332526
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 58086,
+      "reset_kwargs": {
+        "seed": 58086,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          -0.00037195037906803674,
+          0.0001523515621607574,
+          0.0007213498052644485
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 58087,
+      "reset_kwargs": {
+        "seed": 58087,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.00015747951222264134,
+          -3.0392849381055687e-05,
+          0.0028103412578255327
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 58088,
+      "reset_kwargs": {
+        "seed": 58088,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.00025984899934927697,
+          -0.0009353609373139449,
+          0.0033657422871079534
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 58089,
+      "reset_kwargs": {
+        "seed": 58089,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0007163450580456865,
+          0.0004855438106596832,
+          0.0006491281276852501
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 58090,
+      "reset_kwargs": {
+        "seed": 58090,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.0006673533664948716,
+          0.0005203449694590745,
+          0.006820092365803887
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 58091,
+      "reset_kwargs": {
+        "seed": 58091,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0009615044267329009,
+          -0.0016170454447202443,
+          0.005840185384650254
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 58092,
+      "reset_kwargs": {
+        "seed": 58092,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 102,
+      "info": {
+        "elapsed_steps": 102,
+        "obj_to_goal_pos": [
+          0.0005517431186587152,
+          -0.00015408935878014063,
+          0.002037058379681933
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 58093,
+      "reset_kwargs": {
+        "seed": 58093,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.001232104223523628,
+          0.0008511914545573096,
+          0.0029478778660586014
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 58094,
+      "reset_kwargs": {
+        "seed": 58094,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.0015295965150310814,
+          -0.0003899443464149832,
+          0.0031414471930992227
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 58095,
+      "reset_kwargs": {
+        "seed": 58095,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -9.378078202881834e-05,
+          -0.0005956698949764472,
+          0.0038688056298022966
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 58096,
+      "reset_kwargs": {
+        "seed": 58096,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0003784145781286219,
+          -0.00016972731242093086,
+          0.0037257485050796735
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 58097,
+      "reset_kwargs": {
+        "seed": 58097,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          -0.0002278935535939136,
+          -0.0011615086989141266,
+          0.0024252139720287724
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 58098,
+      "reset_kwargs": {
+        "seed": 58098,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.00013513095258635421,
+          0.00041146880370102057,
+          0.0035930527669763568
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 58099,
+      "reset_kwargs": {
+        "seed": 58099,
+        "model_id": "070-a_colored_wood_blocks"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0003485224033215051,
+          0.00039887508865771304,
+          0.002952078858157403
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

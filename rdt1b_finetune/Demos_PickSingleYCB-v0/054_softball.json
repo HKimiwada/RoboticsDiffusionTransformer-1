@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 39000,
+      "reset_kwargs": {
+        "seed": 39000,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 157,
+      "info": {
+        "elapsed_steps": 157,
+        "obj_to_goal_pos": [
+          0.0012020221519943863,
+          -0.000428268278020949,
+          0.004349963830055592
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 39001,
+      "reset_kwargs": {
+        "seed": 39001,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0007911343598753229,
+          -0.000112177092185195,
+          0.000741551927668227
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 39002,
+      "reset_kwargs": {
+        "seed": 39002,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.00027449115345279385,
+          -0.0002266965389437492,
+          0.0023717542909132416
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 39003,
+      "reset_kwargs": {
+        "seed": 39003,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 161,
+      "info": {
+        "elapsed_steps": 161,
+        "obj_to_goal_pos": [
+          0.0002928514918665581,
+          0.0004606211183306175,
+          0.0024704337120056152
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 39004,
+      "reset_kwargs": {
+        "seed": 39004,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.00047297273258961603,
+          -0.0008029736177642688,
+          0.0023352446004931138
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 39005,
+      "reset_kwargs": {
+        "seed": 39005,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.0006806738162433712,
+          -0.0005620098195190382,
+          0.00151902630534817
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 39006,
+      "reset_kwargs": {
+        "seed": 39006,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.0008007606068425321,
+          0.0002816046440397013,
+          0.0014509592879962119
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 39007,
+      "reset_kwargs": {
+        "seed": 39007,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.001123826334609196,
+          -7.162594182541504e-06,
+          0.0018035552859431148
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 39008,
+      "reset_kwargs": {
+        "seed": 39008,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          5.804252818347733e-06,
+          0.0008560464424912095,
+          0.0018190615515405462
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 39009,
+      "reset_kwargs": {
+        "seed": 39009,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0007643958415207153,
+          0.00010833833993884046,
+          0.0021263223087468752
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 39010,
+      "reset_kwargs": {
+        "seed": 39010,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0012141892515461772,
+          -0.0009990675391634563,
+          0.0019118592897581776
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 39011,
+      "reset_kwargs": {
+        "seed": 39011,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          -0.0006822823488418228,
+          -9.265789289381043e-05,
+          0.002182685765826975
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 39012,
+      "reset_kwargs": {
+        "seed": 39012,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -2.003537706644909e-05,
+          -0.0031497035392801243,
+          0.0031421836545296733
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 39013,
+      "reset_kwargs": {
+        "seed": 39013,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.00021280956016903052,
+          0.00028710651532720677,
+          0.002201173811277324
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 39014,
+      "reset_kwargs": {
+        "seed": 39014,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.00014704523779587864,
+          -3.0144401224452277e-05,
+          0.001993517848287052
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 39015,
+      "reset_kwargs": {
+        "seed": 39015,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.003353491978567963,
+          -0.0007027760965120367,
+          0.00517412116814675
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 39016,
+      "reset_kwargs": {
+        "seed": 39016,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0006648520664174068,
+          -0.0007857172345130947,
+          0.002836134575917859
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 39017,
+      "reset_kwargs": {
+        "seed": 39017,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          -0.0009096898736451892,
+          0.0009813624655305442,
+          0.000635466468246304
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 39018,
+      "reset_kwargs": {
+        "seed": 39018,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.00024734193816776384,
+          -7.630939667613301e-05,
+          0.0021915974711314568
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 39019,
+      "reset_kwargs": {
+        "seed": 39019,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0006841191613451425,
+          0.0008938683651747992,
+          0.0012650293337629903
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 39020,
+      "reset_kwargs": {
+        "seed": 39020,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          -6.44495194794259e-05,
+          0.0006100609744011387,
+          0.002375745584004718
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 39021,
+      "reset_kwargs": {
+        "seed": 39021,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.001097320289753373,
+          -0.0007124710704166093,
+          0.0012170384823538827
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 39022,
+      "reset_kwargs": {
+        "seed": 39022,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          7.89216183216812e-06,
+          6.390240670223202e-05,
+          0.001390567606797899
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 39023,
+      "reset_kwargs": {
+        "seed": 39023,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0008224658949634867,
+          4.657536101515536e-05,
+          0.0021431442806183476
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 39024,
+      "reset_kwargs": {
+        "seed": 39024,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0017130350618030643,
+          0.0005131284252076762,
+          0.004779441647072835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 39025,
+      "reset_kwargs": {
+        "seed": 39025,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0003755286444955125,
+          3.0662726059782486e-05,
+          0.0022068917751312256
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 39026,
+      "reset_kwargs": {
+        "seed": 39026,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0004589881941623464,
+          -5.017482553082431e-05,
+          0.0017683889788436824
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 39027,
+      "reset_kwargs": {
+        "seed": 39027,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          -0.000355126817641202,
+          0.0031545329222326113,
+          0.004112594684338333
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 39028,
+      "reset_kwargs": {
+        "seed": 39028,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0005331818883004547,
+          8.953097651365205e-06,
+          0.0035985934686684207
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 39029,
+      "reset_kwargs": {
+        "seed": 39029,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -0.0008234177823976951,
+          0.0006650346184269296,
+          0.0019744038581848145
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 39030,
+      "reset_kwargs": {
+        "seed": 39030,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0010361099608404145,
+          -0.0006851654396693996,
+          0.0016664607613078308
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 39031,
+      "reset_kwargs": {
+        "seed": 39031,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.0002850548628444416,
+          -0.00012395146623034314,
+          0.002147301978963123
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 39032,
+      "reset_kwargs": {
+        "seed": 39032,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          0.0005397222899422849,
+          0.00021829915479482098,
+          0.0013119871618380574
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 39033,
+      "reset_kwargs": {
+        "seed": 39033,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          8.869012919426877e-05,
+          -0.0008880884918799903,
+          0.0030653723770599495
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 39034,
+      "reset_kwargs": {
+        "seed": 39034,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          -0.00032387105596695664,
+          0.0006889609199079993,
+          0.0018725892055891369
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 39035,
+      "reset_kwargs": {
+        "seed": 39035,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          -0.0005756613755190376,
+          -0.0011681801921420432,
+          0.0015723221952296251
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 39036,
+      "reset_kwargs": {
+        "seed": 39036,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.0004115973319792354,
+          -0.00012377353861442453,
+          0.0020553958487699586
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 39037,
+      "reset_kwargs": {
+        "seed": 39037,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.0001468233656430895,
+          -0.00033430691364866316,
+          0.0016093850135803223
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 39038,
+      "reset_kwargs": {
+        "seed": 39038,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          -0.003637194805277605,
+          0.0011263369895511688,
+          0.0036909393802098123
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 39039,
+      "reset_kwargs": {
+        "seed": 39039,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -5.295318680655081e-05,
+          -6.001122608162435e-05,
+          0.0012145411995131972
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 39040,
+      "reset_kwargs": {
+        "seed": 39040,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0007644771970668762,
+          0.001165050072470919,
+          1.626213408384425e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 39041,
+      "reset_kwargs": {
+        "seed": 39041,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00036444485059025644,
+          -0.0001294582649514764,
+          -0.0001072033738183098
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 39042,
+      "reset_kwargs": {
+        "seed": 39042,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -6.540409299490846e-05,
+          0.0001102651701586077,
+          0.0014815032482147217
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 39043,
+      "reset_kwargs": {
+        "seed": 39043,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0008975326307431308,
+          -0.0002944024351324015,
+          0.0020489332894844114
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 39044,
+      "reset_kwargs": {
+        "seed": 39044,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0003502948258908567,
+          0.0007269489247324068,
+          0.0024508084742836944
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 39045,
+      "reset_kwargs": {
+        "seed": 39045,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          0.00037085503427752853,
+          0.0013145972990640242,
+          0.004669228505270351
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 39046,
+      "reset_kwargs": {
+        "seed": 39046,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0003010637163411156,
+          8.538050733036817e-05,
+          0.0015569017393878837
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 39047,
+      "reset_kwargs": {
+        "seed": 39047,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.00014886987136911167,
+          0.00019611014716441888,
+          0.002082518460442051
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 39048,
+      "reset_kwargs": {
+        "seed": 39048,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0005350090334547142,
+          0.0001284036646073683,
+          0.0019821301346067965
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 39049,
+      "reset_kwargs": {
+        "seed": 39049,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -4.820918535819452e-05,
+          -0.00010483699490032583,
+          0.0016404822974730449
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 39050,
+      "reset_kwargs": {
+        "seed": 39050,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.000666085609435485,
+          -9.899438332494626e-05,
+          0.0027660407452000935
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 39051,
+      "reset_kwargs": {
+        "seed": 39051,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0007457800819353766,
+          -0.00016329326603653493,
+          0.0030983503408595903
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 39052,
+      "reset_kwargs": {
+        "seed": 39052,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0004382418402287258,
+          0.00016885201386263038,
+          0.0021912998796120853
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 39053,
+      "reset_kwargs": {
+        "seed": 39053,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.0002524936647393672,
+          -0.001393708066601329,
+          0.0045721467173034935
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 39054,
+      "reset_kwargs": {
+        "seed": 39054,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0006614955718564353,
+          5.374391822710045e-05,
+          0.0019422236834705786
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 39055,
+      "reset_kwargs": {
+        "seed": 39055,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0010841010884428959,
+          -0.00018352497590051753,
+          0.0021971516951847514
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 39056,
+      "reset_kwargs": {
+        "seed": 39056,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          -0.000717985456443665,
+          0.00021031308172364538,
+          0.0014350514663792335
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 39057,
+      "reset_kwargs": {
+        "seed": 39057,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.00016704536301720418,
+          -0.0012234380647238585,
+          0.0021876860712471413
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 39058,
+      "reset_kwargs": {
+        "seed": 39058,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0003114567854625855,
+          -0.0002502121326415918,
+          0.0023519349437870485
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 39059,
+      "reset_kwargs": {
+        "seed": 39059,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          0.0003989057444174493,
+          -0.00020106169771039184,
+          0.0009120150556803375
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 39060,
+      "reset_kwargs": {
+        "seed": 39060,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0005852130558155338,
+          -0.0006394570459158366,
+          0.0025117903175295164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 39061,
+      "reset_kwargs": {
+        "seed": 39061,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0004066271156104584,
+          -9.97230159983098e-05,
+          0.002422965928707499
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 39062,
+      "reset_kwargs": {
+        "seed": 39062,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.000574649329320373,
+          0.0024359018359960682,
+          0.0028682040445099366
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 39063,
+      "reset_kwargs": {
+        "seed": 39063,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0005634690226877515,
+          -0.00011453223124391343,
+          0.0017740619110183653
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 39064,
+      "reset_kwargs": {
+        "seed": 39064,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.00202973873343007,
+          0.0016316848046106225,
+          0.005678464939052386
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 39065,
+      "reset_kwargs": {
+        "seed": 39065,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.000609227652179356,
+          -0.00033268187125756743,
+          0.002880921951674831
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 39066,
+      "reset_kwargs": {
+        "seed": 39066,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0002395339178547229,
+          0.00010163634100535113,
+          0.001275336529702964
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 39067,
+      "reset_kwargs": {
+        "seed": 39067,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          4.1994750166668426e-05,
+          0.00014009744693588289,
+          0.0022195279598236084
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 39068,
+      "reset_kwargs": {
+        "seed": 39068,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0003233309621978042,
+          0.0006866032189137838,
+          0.0018840701268029725
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 39069,
+      "reset_kwargs": {
+        "seed": 39069,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          -0.0003870790601353674,
+          -0.0005671024858316387,
+          0.00122806808772985
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 39070,
+      "reset_kwargs": {
+        "seed": 39070,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.000721980407101086,
+          -0.0007677373570174062,
+          0.002512957703712626
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 39071,
+      "reset_kwargs": {
+        "seed": 39071,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0008330551403299136,
+          0.0004092074995685202,
+          0.0013822801294671172
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 39072,
+      "reset_kwargs": {
+        "seed": 39072,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          -0.0009693101328082376,
+          -4.5972688749951196e-05,
+          0.0019194251423582664
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 39073,
+      "reset_kwargs": {
+        "seed": 39073,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0003329216056445483,
+          0.0007022440951185427,
+          0.0018684989019917553
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 39074,
+      "reset_kwargs": {
+        "seed": 39074,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          0.0027869666387979886,
+          -0.0010009298838389302,
+          0.005504888221578019
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 39075,
+      "reset_kwargs": {
+        "seed": 39075,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0004922018575425346,
+          0.0001469307243839313,
+          0.002739460459013243
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 39076,
+      "reset_kwargs": {
+        "seed": 39076,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0027972929708229566,
+          -0.0012728297004171996,
+          0.0038745820286707477
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 39077,
+      "reset_kwargs": {
+        "seed": 39077,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0001273165562890588,
+          6.818449643158919e-05,
+          0.0018648827072723084
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 39078,
+      "reset_kwargs": {
+        "seed": 39078,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.000644814824021428,
+          0.0013620201449333624,
+          0.0021121975027132978
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 39079,
+      "reset_kwargs": {
+        "seed": 39079,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0012034877124748322,
+          -0.00030896055281798285,
+          0.0020548007964399373
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 39080,
+      "reset_kwargs": {
+        "seed": 39080,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0001338654684796825,
+          -0.0001597185540790358,
+          0.0021442824824342566
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 39081,
+      "reset_kwargs": {
+        "seed": 39081,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0005008068327146675,
+          0.0005656607977416739,
+          0.002574970387292763
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 39082,
+      "reset_kwargs": {
+        "seed": 39082,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          0.0007663286055383245,
+          -1.6072034934588864e-06,
+          0.0038345490083500633
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 39083,
+      "reset_kwargs": {
+        "seed": 39083,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.0017662763166053363,
+          -0.003335878725082786,
+          0.0036000565889170444
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 39084,
+      "reset_kwargs": {
+        "seed": 39084,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          1.991788522405502e-05,
+          -0.0004211324439001851,
+          0.002142211644196035
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 39085,
+      "reset_kwargs": {
+        "seed": 39085,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          -3.099997821701117e-05,
+          0.0012573113433196337,
+          0.0009885340857305192
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 39086,
+      "reset_kwargs": {
+        "seed": 39086,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0007885677214850007,
+          0.0005480947061800023,
+          0.0027969385872945174
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 39087,
+      "reset_kwargs": {
+        "seed": 39087,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0009344387071481275,
+          0.0031953575120710065,
+          0.004860490560531616
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 39088,
+      "reset_kwargs": {
+        "seed": 39088,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0004139594030913851,
+          0.0009163953489720322,
+          0.002913189593502452
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 39089,
+      "reset_kwargs": {
+        "seed": 39089,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0001462919117447281,
+          -0.00037256536034452337,
+          0.0021528661060660204
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 39090,
+      "reset_kwargs": {
+        "seed": 39090,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0004638682790150117,
+          -7.301629064448978e-05,
+          0.0027772225313157373
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 39091,
+      "reset_kwargs": {
+        "seed": 39091,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 173,
+      "info": {
+        "elapsed_steps": 173,
+        "obj_to_goal_pos": [
+          0.0012441358335159303,
+          0.001173375031083168,
+          0.0038012865002056695
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 39092,
+      "reset_kwargs": {
+        "seed": 39092,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0003376060093109867,
+          -0.00010191205210929866,
+          0.0026042957897313146
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 39093,
+      "reset_kwargs": {
+        "seed": 39093,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0007262152966201751,
+          -0.00030512290618961435,
+          0.0023765550238394884
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 39094,
+      "reset_kwargs": {
+        "seed": 39094,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0003781134182852669,
+          -7.368394280965473e-05,
+          0.0007366329980691422
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 39095,
+      "reset_kwargs": {
+        "seed": 39095,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.00028865127602858975,
+          -0.0013809902525425133,
+          0.0041680700485970945
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 39096,
+      "reset_kwargs": {
+        "seed": 39096,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.00018638512137209018,
+          -0.00020419231081819644,
+          0.0009460410580714451
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 39097,
+      "reset_kwargs": {
+        "seed": 39097,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0005433012341667098,
+          0.00033799315769084126,
+          0.0024053348133217245
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 39098,
+      "reset_kwargs": {
+        "seed": 39098,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.00048291981074649604,
+          0.0005037199137206128,
+          0.002719406309917849
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 39099,
+      "reset_kwargs": {
+        "seed": 39099,
+        "model_id": "054_softball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.00011835886061564715,
+          -0.0003143107573019277,
+          0.002440150644010486
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

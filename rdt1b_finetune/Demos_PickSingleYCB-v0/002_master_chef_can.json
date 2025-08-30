@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 0,
+      "reset_kwargs": {
+        "seed": 0,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0012991290600868066,
+          -0.0008021058984243878,
+          0.004004823595925688
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 1,
+      "reset_kwargs": {
+        "seed": 1,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          -0.00021220021789400412,
+          0.00022982259993964416,
+          0.0026046257986203636
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 2,
+      "reset_kwargs": {
+        "seed": 2,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0007344322644755041,
+          -0.0007997062110857711,
+          0.004050048391509686
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 3,
+      "reset_kwargs": {
+        "seed": 3,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.00034394505612872495,
+          -0.00043367681716988127,
+          0.0034972242029319145
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 4,
+      "reset_kwargs": {
+        "seed": 4,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.000292292659590937,
+          0.0009345897250798707,
+          0.004763364791870117
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 5,
+      "reset_kwargs": {
+        "seed": 5,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0006912799873335651,
+          -0.00014160159639731162,
+          0.0021221943354410855
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 6,
+      "reset_kwargs": {
+        "seed": 6,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          -0.00010453055288994761,
+          0.00042809070769223023,
+          0.0038144588470458984
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 7,
+      "reset_kwargs": {
+        "seed": 7,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.00028888283447084384,
+          -0.00020000460625713146,
+          0.0037191808223724365
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 8,
+      "reset_kwargs": {
+        "seed": 8,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          0.00015963100238422512,
+          0.00024834052725641875,
+          0.0025870718742384557
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 9,
+      "reset_kwargs": {
+        "seed": 9,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0002982935699980538,
+          4.920941984531968e-05,
+          0.004330087241928626
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 10,
+      "reset_kwargs": {
+        "seed": 10,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.000859971679602195,
+          0.0004000937047287101,
+          0.0025075222954769605
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 11,
+      "reset_kwargs": {
+        "seed": 11,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.00027232352368861124,
+          0.0004351391844030772,
+          0.0034121892886826433
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 12,
+      "reset_kwargs": {
+        "seed": 12,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          0.001168203765880449,
+          0.00022587536919388418,
+          0.0033219883443821874
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 13,
+      "reset_kwargs": {
+        "seed": 13,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0008517543515552395,
+          -0.0005660409831426128,
+          0.0029098652051636753
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 14,
+      "reset_kwargs": {
+        "seed": 14,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          -0.00021035488377002531,
+          0.0003553562572586877,
+          0.0037256452981627164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 15,
+      "reset_kwargs": {
+        "seed": 15,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.0003012198909732311,
+          0.0002559928256375965,
+          0.0022925137894034275
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 16,
+      "reset_kwargs": {
+        "seed": 16,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0004890860474284497,
+          -0.003385609566964598,
+          0.005633129592951702
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 17,
+      "reset_kwargs": {
+        "seed": 17,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.003938190191166258,
+          -0.00020438012535106687,
+          0.007397726182356068
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 18,
+      "reset_kwargs": {
+        "seed": 18,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.00016137798565460382,
+          -0.0011032125519669367,
+          0.002799180163264303
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 19,
+      "reset_kwargs": {
+        "seed": 19,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.00011038344417296786,
+          0.0003752718243557607,
+          0.0025959968472121786
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 20,
+      "reset_kwargs": {
+        "seed": 20,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0019913983334652607,
+          0.0005137187075771599,
+          0.0033211332057935805
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 21,
+      "reset_kwargs": {
+        "seed": 21,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 175,
+      "info": {
+        "elapsed_steps": 175,
+        "obj_to_goal_pos": [
+          -0.0007957816861294542,
+          -0.00012911378576718757,
+          0.0012277066707611084
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 22,
+      "reset_kwargs": {
+        "seed": 22,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.00823896721559228,
+          -0.021135924599791023,
+          -0.0075364704097622415
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 23,
+      "reset_kwargs": {
+        "seed": 23,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0014878072177411938,
+          0.00037054997917118637,
+          0.004115907769124849
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 24,
+      "reset_kwargs": {
+        "seed": 24,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.0009222207246237513,
+          5.016564890814035e-05,
+          0.0021681572302392205
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 25,
+      "reset_kwargs": {
+        "seed": 25,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0004276752890569613,
+          -5.214649461321441e-05,
+          0.0006524861112479075
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 26,
+      "reset_kwargs": {
+        "seed": 26,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          -0.00053574767850878,
+          -9.471547815304016e-05,
+          0.0031654105477760264
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 27,
+      "reset_kwargs": {
+        "seed": 27,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0013816133670783992,
+          -0.0006387941485021531,
+          0.004417117936116044
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 28,
+      "reset_kwargs": {
+        "seed": 28,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0005038866189035207,
+          -0.0007147232165836126,
+          0.0028884778332708416
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 29,
+      "reset_kwargs": {
+        "seed": 29,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0011413816511948727,
+          -0.000932166901192022,
+          0.002863364298260118
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 30,
+      "reset_kwargs": {
+        "seed": 30,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.0019151665824384545,
+          0.000568722102201602,
+          0.003002443624859741
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 31,
+      "reset_kwargs": {
+        "seed": 31,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.00045156653144060033,
+          -0.000459974560099885,
+          0.003473639488220215
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 32,
+      "reset_kwargs": {
+        "seed": 32,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 95,
+      "info": {
+        "elapsed_steps": 95,
+        "obj_to_goal_pos": [
+          0.0011788184148728287,
+          0.0011126739743795855,
+          0.002621842628439064
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 33,
+      "reset_kwargs": {
+        "seed": 33,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          2.335855473160897e-05,
+          -0.000661239975070782,
+          0.004990428686141968
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 34,
+      "reset_kwargs": {
+        "seed": 34,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          0.0007641488037289368,
+          0.0004240885027124164,
+          0.006114668902531872
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 35,
+      "reset_kwargs": {
+        "seed": 35,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.00047453833659286127,
+          0.0019252261820442707,
+          0.0030372660467033463
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 36,
+      "reset_kwargs": {
+        "seed": 36,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0014792325295021336,
+          0.00015416542029916824,
+          0.00107591150305697
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 37,
+      "reset_kwargs": {
+        "seed": 37,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          -0.00018785094068740626,
+          -7.873585341877654e-05,
+          0.003271758556365967
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 38,
+      "reset_kwargs": {
+        "seed": 38,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          2.226228512391959e-05,
+          -0.0001330638723421318,
+          0.004427353446860904
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 39,
+      "reset_kwargs": {
+        "seed": 39,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0010888410679322502,
+          -0.0002075197375544513,
+          0.003982072226632771
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 40,
+      "reset_kwargs": {
+        "seed": 40,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          -0.00198547926196721,
+          0.0012232893485450425,
+          0.005521416664123535
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 41,
+      "reset_kwargs": {
+        "seed": 41,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 93,
+      "info": {
+        "elapsed_steps": 93,
+        "obj_to_goal_pos": [
+          0.0008932639816253418,
+          0.0008394578964926458,
+          0.0031525911359892023
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 42,
+      "reset_kwargs": {
+        "seed": 42,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0027735506342343175,
+          -0.003243090498959933,
+          0.006944568920041083
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 43,
+      "reset_kwargs": {
+        "seed": 43,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.002257134045554915,
+          -0.000371465578246688,
+          0.003992877731999467
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 44,
+      "reset_kwargs": {
+        "seed": 44,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.0012129034665372684,
+          -0.0010627687817092446,
+          0.006553024053573608
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 45,
+      "reset_kwargs": {
+        "seed": 45,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0002747466580272778,
+          0.0009696020539734507,
+          0.002428414795396572
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 46,
+      "reset_kwargs": {
+        "seed": 46,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0011547626432308888,
+          0.0006226111574077486,
+          0.0030988414505470074
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 47,
+      "reset_kwargs": {
+        "seed": 47,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0008396179964998141,
+          -0.000900814851977183,
+          0.0030246517159454034
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 48,
+      "reset_kwargs": {
+        "seed": 48,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -3.813266738661447e-05,
+          -0.00014723900971125303,
+          0.002831227203889508
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 49,
+      "reset_kwargs": {
+        "seed": 49,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          -0.0004329270935194973,
+          0.00010098521640899971,
+          0.00315245732572228
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 50,
+      "reset_kwargs": {
+        "seed": 50,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.00011600573795847446,
+          4.930903740563153e-05,
+          0.0034150192105917854
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 51,
+      "reset_kwargs": {
+        "seed": 51,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          -4.6081576967435534e-05,
+          0.0003465287802114636,
+          0.0021307586163347714
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 52,
+      "reset_kwargs": {
+        "seed": 52,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.000829533875441324,
+          0.0017169620436309763,
+          0.00292595634581877
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 53,
+      "reset_kwargs": {
+        "seed": 53,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0006733357038470056,
+          3.313276714561608e-05,
+          0.0015647803483473943
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 54,
+      "reset_kwargs": {
+        "seed": 54,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -0.0011178044860459813,
+          0.0014714388876340134,
+          0.004035145044326782
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 55,
+      "reset_kwargs": {
+        "seed": 55,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          -0.00011918557972398491,
+          -5.2380577778732285e-05,
+          0.00440399933120067
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 56,
+      "reset_kwargs": {
+        "seed": 56,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -0.000731467453773671,
+          0.003071870848719682,
+          0.0015173406249019972
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 57,
+      "reset_kwargs": {
+        "seed": 57,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.00021602246204091569,
+          0.0002318930838089983,
+          0.004560668942828694
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 58,
+      "reset_kwargs": {
+        "seed": 58,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.001995929641885247,
+          0.0012998353697989407,
+          0.004216408798390525
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 59,
+      "reset_kwargs": {
+        "seed": 59,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0005192498672760559,
+          -0.00032237949156183054,
+          0.0011864138250355372
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 60,
+      "reset_kwargs": {
+        "seed": 60,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          -0.00077373146261836,
+          -0.0014467632712802936,
+          0.002664465134334104
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 61,
+      "reset_kwargs": {
+        "seed": 61,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          -2.4675948065377984e-05,
+          0.00011178862868166384,
+          0.002840148020256894
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 62,
+      "reset_kwargs": {
+        "seed": 62,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0003803280819169863,
+          0.0006756788770375111,
+          0.003790416061181745
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 63,
+      "reset_kwargs": {
+        "seed": 63,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          3.8726333255773016e-05,
+          3.560990801954045e-06,
+          0.0033527669772315805
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 64,
+      "reset_kwargs": {
+        "seed": 64,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.001862857078605673,
+          -0.00016711977733463446,
+          0.0036689004577093454
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 65,
+      "reset_kwargs": {
+        "seed": 65,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0004700273938645083,
+          -0.0006121960881125266,
+          0.0040396202190976505
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 66,
+      "reset_kwargs": {
+        "seed": 66,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.005675098056362848,
+          -0.0009287844626409414,
+          0.004179220876219691
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 67,
+      "reset_kwargs": {
+        "seed": 67,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.0007487390858228749,
+          -0.0009042003019295031,
+          0.00337594373906952
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 68,
+      "reset_kwargs": {
+        "seed": 68,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 173,
+      "info": {
+        "elapsed_steps": 173,
+        "obj_to_goal_pos": [
+          0.0029291606457985397,
+          0.002170081759736542,
+          0.0074651265691373925
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 69,
+      "reset_kwargs": {
+        "seed": 69,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0014801518955121495,
+          -0.0010682933173027376,
+          0.0043371353597048135
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 70,
+      "reset_kwargs": {
+        "seed": 70,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.00012919714247171254,
+          -0.0006609768759496815,
+          0.002041156074693573
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 71,
+      "reset_kwargs": {
+        "seed": 71,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.0015998205234253604,
+          -0.0008690753397765927,
+          0.003735482692718506
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 72,
+      "reset_kwargs": {
+        "seed": 72,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          -6.83585835188627e-06,
+          -0.00015392724222274,
+          0.0029290736305793152
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 73,
+      "reset_kwargs": {
+        "seed": 73,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0002739541037581894,
+          -0.001424380128615954,
+          0.007309615612030029
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 74,
+      "reset_kwargs": {
+        "seed": 74,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          -0.00022245334212017687,
+          -0.00281851310213721,
+          0.0014903464837091596
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 75,
+      "reset_kwargs": {
+        "seed": 75,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          9.712916223877932e-05,
+          0.0005508204483822832,
+          0.0037166648056383145
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 76,
+      "reset_kwargs": {
+        "seed": 76,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 168,
+      "info": {
+        "elapsed_steps": 168,
+        "obj_to_goal_pos": [
+          0.0006585382076859381,
+          -0.000948944185834022,
+          0.0032249318328038123
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 77,
+      "reset_kwargs": {
+        "seed": 77,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.0005333004671184416,
+          -0.0005618381448535548,
+          0.0023112444854598846
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 78,
+      "reset_kwargs": {
+        "seed": 78,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0004878686952858591,
+          -0.0003498477850704118,
+          0.004260360766916493
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 79,
+      "reset_kwargs": {
+        "seed": 79,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          0.0016509598074374021,
+          0.0009370650939912184,
+          0.008608449340137436
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 80,
+      "reset_kwargs": {
+        "seed": 80,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 84,
+      "info": {
+        "elapsed_steps": 84,
+        "obj_to_goal_pos": [
+          0.0022280383410153703,
+          0.00357738599472629,
+          0.005635559044374572
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 81,
+      "reset_kwargs": {
+        "seed": 81,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0011305686993186292,
+          -0.0005284805009819205,
+          0.0039921692764681715
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 82,
+      "reset_kwargs": {
+        "seed": 82,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          -0.001245842706818573,
+          0.0002293227217506355,
+          0.005515551930213691
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 83,
+      "reset_kwargs": {
+        "seed": 83,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -6.224334146187616e-05,
+          -2.672801711856021e-05,
+          0.00377084818926654
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 84,
+      "reset_kwargs": {
+        "seed": 84,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0011123741290690187,
+          0.0004205071057656884,
+          0.003870435824164742
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 85,
+      "reset_kwargs": {
+        "seed": 85,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -0.0004101311997045942,
+          -0.0002728581923786555,
+          0.002087638728129171
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 86,
+      "reset_kwargs": {
+        "seed": 86,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 157,
+      "info": {
+        "elapsed_steps": 157,
+        "obj_to_goal_pos": [
+          -0.0005520111313188358,
+          -0.00025512805795557814,
+          0.004571138493746241
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 87,
+      "reset_kwargs": {
+        "seed": 87,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0006534327085045838,
+          -0.0005761602954984513,
+          0.0025467881617695087
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 88,
+      "reset_kwargs": {
+        "seed": 88,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0003854245740913531,
+          -0.0008348052678483486,
+          0.0031157705801713176
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 89,
+      "reset_kwargs": {
+        "seed": 89,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0005093704021124079,
+          -0.0004194081526821547,
+          0.003848262959747051
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 90,
+      "reset_kwargs": {
+        "seed": 90,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0005088897558732514,
+          -0.0004480893075875514,
+          0.003864438454088459
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 91,
+      "reset_kwargs": {
+        "seed": 91,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00039979069489236296,
+          -9.944804625516834e-06,
+          0.003636270761489868
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 92,
+      "reset_kwargs": {
+        "seed": 92,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0024885685868579477,
+          -0.0017197160084307939,
+          0.005541088267599081
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 93,
+      "reset_kwargs": {
+        "seed": 93,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.00033221506408678825,
+          -0.0005147059670942977,
+          0.003668457812245951
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 94,
+      "reset_kwargs": {
+        "seed": 94,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -0.00017887115037730494,
+          -0.00014875365058336643,
+          0.0027565252137253804
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 95,
+      "reset_kwargs": {
+        "seed": 95,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.0005785249018732397,
+          0.0002741908189287101,
+          0.004617663179649789
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 96,
+      "reset_kwargs": {
+        "seed": 96,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0008183277890730645,
+          0.0005043206313420923,
+          0.002487358701743825
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 97,
+      "reset_kwargs": {
+        "seed": 97,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.0010253543495996609,
+          -0.002042478947012094,
+          0.003658008472611163
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 98,
+      "reset_kwargs": {
+        "seed": 98,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0009559740429430641,
+          -0.0005419754486075679,
+          0.0019418801271379738
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 99,
+      "reset_kwargs": {
+        "seed": 99,
+        "model_id": "002_master_chef_can"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          7.354496590358806e-05,
+          -0.001133096614940543,
+          0.004458111997334313
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

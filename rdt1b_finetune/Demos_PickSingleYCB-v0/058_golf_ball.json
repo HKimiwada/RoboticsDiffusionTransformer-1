@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 43000,
+      "reset_kwargs": {
+        "seed": 43000,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0002724553013036257,
+          0.00010090612352919859,
+          -0.00037853642254581654
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 43001,
+      "reset_kwargs": {
+        "seed": 43001,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0006625309734627632,
+          -0.0008194387755757759,
+          0.001423169574367611
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 43002,
+      "reset_kwargs": {
+        "seed": 43002,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0004931755526807469,
+          -0.0002943412738719009,
+          0.00042696668840880303
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 43003,
+      "reset_kwargs": {
+        "seed": 43003,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0004082774139634593,
+          0.000227644804754068,
+          0.0006875807942131607
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 43004,
+      "reset_kwargs": {
+        "seed": 43004,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -0.00010898749895764392,
+          0.0008336997271147228,
+          0.0006414111816229751
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 43005,
+      "reset_kwargs": {
+        "seed": 43005,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.0001854636328151582,
+          0.00010422117881370152,
+          0.0005563613117051669
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 43006,
+      "reset_kwargs": {
+        "seed": 43006,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.0002811897370135208,
+          0.00043682418133522694,
+          0.00095587585538498
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 43007,
+      "reset_kwargs": {
+        "seed": 43007,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -0.00018563584244438158,
+          0.0002958883561415826,
+          0.0016929519750206734
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 43008,
+      "reset_kwargs": {
+        "seed": 43008,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.000155928057957333,
+          1.9333927861076017e-05,
+          -0.0012984462889202297
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 43009,
+      "reset_kwargs": {
+        "seed": 43009,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.00048749813341525394,
+          0.002956372163043175,
+          0.00482701474635111
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 43010,
+      "reset_kwargs": {
+        "seed": 43010,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          4.7428939060872866e-05,
+          8.336168788830589e-05,
+          -0.0002732212997794692
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 43011,
+      "reset_kwargs": {
+        "seed": 43011,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0010698173852448922,
+          0.0005779453872092888,
+          0.004927606372338023
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 43012,
+      "reset_kwargs": {
+        "seed": 43012,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          -0.00019589348720203126,
+          -0.00027661273247142626,
+          -0.0005503182012759344
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 43013,
+      "reset_kwargs": {
+        "seed": 43013,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0004837489027100239,
+          -0.0007057566209996424,
+          -0.00048401388292568237
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 43014,
+      "reset_kwargs": {
+        "seed": 43014,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.000662697636064441,
+          -0.0006520078253973716,
+          0.0014073548521634782
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 43015,
+      "reset_kwargs": {
+        "seed": 43015,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0016460748626475896,
+          0.0010365160132230211,
+          0.0018230485269844499
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 43016,
+      "reset_kwargs": {
+        "seed": 43016,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.00011386159848136845,
+          -0.00015959826547229383,
+          0.000264126486218097
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 43017,
+      "reset_kwargs": {
+        "seed": 43017,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          -5.297044485705338e-05,
+          0.0006186879754969121,
+          0.0008828620253913955
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 43018,
+      "reset_kwargs": {
+        "seed": 43018,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.00024356239833683846,
+          -0.00011629840709487249,
+          0.00045444779906705923
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 43019,
+      "reset_kwargs": {
+        "seed": 43019,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.00023059017364804313,
+          -0.0006220907089049543,
+          0.001254190425457602
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 43020,
+      "reset_kwargs": {
+        "seed": 43020,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.00035682104169931783,
+          -1.9467147658880357e-05,
+          0.0010533825538436847
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 43021,
+      "reset_kwargs": {
+        "seed": 43021,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.00048098648839958735,
+          0.00024576215447347227,
+          0.000614706583801139
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 43022,
+      "reset_kwargs": {
+        "seed": 43022,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -2.640178970710061e-05,
+          -0.0002878206512292314,
+          0.0007083879807927573
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 43023,
+      "reset_kwargs": {
+        "seed": 43023,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.002880300260134555,
+          -0.0012651283393851909,
+          0.0007168187094934719
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 43024,
+      "reset_kwargs": {
+        "seed": 43024,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0005408690817730322,
+          0.00020583873304208522,
+          0.001313155735701066
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 43025,
+      "reset_kwargs": {
+        "seed": 43025,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0004757803715027542,
+          -0.00011792198125931685,
+          0.001338940453129378
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 43026,
+      "reset_kwargs": {
+        "seed": 43026,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.00274270865047746,
+          -0.0026038998348982267,
+          0.0023480510033757618
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 43027,
+      "reset_kwargs": {
+        "seed": 43027,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.00039429648976618825,
+          -0.0007588946746281966,
+          0.001610981286013835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 43028,
+      "reset_kwargs": {
+        "seed": 43028,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.0005482890135278529,
+          -0.0006979421246073869,
+          0.0014354532226357741
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 43029,
+      "reset_kwargs": {
+        "seed": 43029,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          -0.00033726752941037885,
+          0.0008427693689311844,
+          0.001236668136752217
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 43030,
+      "reset_kwargs": {
+        "seed": 43030,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0001251285787422507,
+          -0.0003593733625351092,
+          0.00048315227052664333
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 43031,
+      "reset_kwargs": {
+        "seed": 43031,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          4.271634485500386e-05,
+          -1.1988914084104518e-05,
+          0.0006820005790680317
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 43032,
+      "reset_kwargs": {
+        "seed": 43032,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 100,
+      "info": {
+        "elapsed_steps": 100,
+        "obj_to_goal_pos": [
+          0.0034522652542666454,
+          -0.005005486358511779,
+          0.003339475811259096
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 43033,
+      "reset_kwargs": {
+        "seed": 43033,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0016504737683226134,
+          -0.001145573050266413,
+          0.0015404271406014858
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 43034,
+      "reset_kwargs": {
+        "seed": 43034,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          5.828117012393608e-05,
+          0.0006103339759068738,
+          -0.0002901625813659936
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 43035,
+      "reset_kwargs": {
+        "seed": 43035,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          5.865243305928913e-05,
+          0.00047736149822402707,
+          0.0005756215745291171
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 43036,
+      "reset_kwargs": {
+        "seed": 43036,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0010592156812209569,
+          -0.0010844915074330608,
+          0.002123146457549685
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 43037,
+      "reset_kwargs": {
+        "seed": 43037,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          -0.000713408423222428,
+          0.0003704745462354553,
+          0.0011056426304396627
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 43038,
+      "reset_kwargs": {
+        "seed": 43038,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.001076391261945614,
+          -0.0005893718663950165,
+          0.0006988422888739576
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 43039,
+      "reset_kwargs": {
+        "seed": 43039,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0005803558995826907,
+          0.0016839008033309177,
+          6.276923385561961e-06
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 43040,
+      "reset_kwargs": {
+        "seed": 43040,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.00024592771365392063,
+          0.0003478276686405546,
+          -0.00014384067292771974
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 43041,
+      "reset_kwargs": {
+        "seed": 43041,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.00031893399434881897,
+          -4.621363928719591e-05,
+          0.0009509366751979664
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 43042,
+      "reset_kwargs": {
+        "seed": 43042,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0005533963680041665,
+          -0.0005112022381109083,
+          0.0007534663321503432
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 43043,
+      "reset_kwargs": {
+        "seed": 43043,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.000726120550889553,
+          -0.0006354475749297817,
+          0.0013453170955786131
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 43044,
+      "reset_kwargs": {
+        "seed": 43044,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0018493563492786858,
+          0.0014291837530843732,
+          0.0023929922464666076
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 43045,
+      "reset_kwargs": {
+        "seed": 43045,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.00015203840018601644,
+          0.00014453610398013073,
+          0.00013894012386700405
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 43046,
+      "reset_kwargs": {
+        "seed": 43046,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0006441266894828268,
+          -0.0002744104546886783,
+          0.0012497426766362452
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 43047,
+      "reset_kwargs": {
+        "seed": 43047,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          4.5910648441740975e-05,
+          -0.0006619489453605909,
+          0.0013017534394277885
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 43048,
+      "reset_kwargs": {
+        "seed": 43048,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          0.00010744878085186538,
+          0.00011949364905095017,
+          0.00018108498081709223
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 43049,
+      "reset_kwargs": {
+        "seed": 43049,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0009307139170686707,
+          -0.0011389699828720512,
+          0.004676312208175659
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 43050,
+      "reset_kwargs": {
+        "seed": 43050,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.00011464629517257685,
+          3.758345497073545e-05,
+          0.00033891320398327096
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 43051,
+      "reset_kwargs": {
+        "seed": 43051,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 176,
+      "info": {
+        "elapsed_steps": 176,
+        "obj_to_goal_pos": [
+          0.00021755614880861196,
+          -0.0007078661580274259,
+          -0.00018739700317382812
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 43052,
+      "reset_kwargs": {
+        "seed": 43052,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0005910097728862307,
+          -0.001460723159941002,
+          0.0024101067791345576
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 43053,
+      "reset_kwargs": {
+        "seed": 43053,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.0007142296863995451,
+          0.0010998009267257913,
+          0.0015440704388293147
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 43054,
+      "reset_kwargs": {
+        "seed": 43054,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.0008052858109162675,
+          -0.0007993511651823715,
+          0.0008505281931417419
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 43055,
+      "reset_kwargs": {
+        "seed": 43055,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.0008333033020583164,
+          -0.001117262673085262,
+          0.0005920873098042012
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 43056,
+      "reset_kwargs": {
+        "seed": 43056,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          -0.0029144032964186217,
+          0.0004887602314493922,
+          0.005719788811304638
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 43057,
+      "reset_kwargs": {
+        "seed": 43057,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.0007514362496950922,
+          -0.0013618289460314292,
+          0.0005343339005267067
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 43058,
+      "reset_kwargs": {
+        "seed": 43058,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.00033967609785787167,
+          0.0006254647758293097,
+          0.0015822756066000698
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 43059,
+      "reset_kwargs": {
+        "seed": 43059,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.00023342384853444753,
+          -0.000529674936093516,
+          0.0008878111839294434
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 43060,
+      "reset_kwargs": {
+        "seed": 43060,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0005959151893006609,
+          -1.535492463627941e-05,
+          0.0005901818747014453
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 43061,
+      "reset_kwargs": {
+        "seed": 43061,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -1.2093572615709536e-05,
+          -0.00015616389556938337,
+          -2.700228411783856e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 43062,
+      "reset_kwargs": {
+        "seed": 43062,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0014685003752177572,
+          -0.0010018988725234435,
+          0.00492947494223539
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 43063,
+      "reset_kwargs": {
+        "seed": 43063,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.00021299396378882118,
+          -0.0006982091844090488,
+          -0.0005552333562054979
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 43064,
+      "reset_kwargs": {
+        "seed": 43064,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          8.744363564394675e-05,
+          -0.0002691786041443267,
+          0.00010673895211649187
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 43065,
+      "reset_kwargs": {
+        "seed": 43065,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.000581363449344785,
+          0.00021271801732819506,
+          0.0010094949313194657
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 43066,
+      "reset_kwargs": {
+        "seed": 43066,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0007795443538265168,
+          -0.00046606657981801414,
+          0.0003402770185365056
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 43067,
+      "reset_kwargs": {
+        "seed": 43067,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0018688507022511236,
+          -0.0011418026557768468,
+          0.0017802392948379486
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 43068,
+      "reset_kwargs": {
+        "seed": 43068,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.0022600738755605143,
+          -0.0006774506379360057,
+          0.0037729164918842706
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 43069,
+      "reset_kwargs": {
+        "seed": 43069,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0011363545607846193,
+          0.000669389229612738,
+          0.00027668815074988196
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 43070,
+      "reset_kwargs": {
+        "seed": 43070,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.00026757971841788464,
+          -3.994622939412773e-05,
+          0.001388200292963937
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 43071,
+      "reset_kwargs": {
+        "seed": 43071,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0014374351324396295,
+          -0.0009917376490385932,
+          0.001606042476005487
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 43072,
+      "reset_kwargs": {
+        "seed": 43072,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.00013614345081540413,
+          -0.00024275661953465644,
+          0.0013702803207898961
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 43073,
+      "reset_kwargs": {
+        "seed": 43073,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -0.00010020149688347302,
+          -0.0006155284279540374,
+          -0.0006049228269473517
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 43074,
+      "reset_kwargs": {
+        "seed": 43074,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0005175291145814442,
+          -0.0017541435269033956,
+          0.0012416316978169917
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 43075,
+      "reset_kwargs": {
+        "seed": 43075,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.0008019212549106314,
+          -0.0006626685442081004,
+          0.0007433035685223133
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 43076,
+      "reset_kwargs": {
+        "seed": 43076,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.00022171186270879273,
+          -0.0005141047158797596,
+          0.001278428975115875
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 43077,
+      "reset_kwargs": {
+        "seed": 43077,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0020575858422466897,
+          -0.00039300038498002454,
+          0.004084265106855445
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 43078,
+      "reset_kwargs": {
+        "seed": 43078,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.000271556965420347,
+          0.0001987155925364803,
+          0.00033940690477357593
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 43079,
+      "reset_kwargs": {
+        "seed": 43079,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.0006467208371261912,
+          -5.094581478382043e-05,
+          0.0005670183996207001
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 43080,
+      "reset_kwargs": {
+        "seed": 43080,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 94,
+      "info": {
+        "elapsed_steps": 94,
+        "obj_to_goal_pos": [
+          0.0017013402705574332,
+          0.0006564038293972452,
+          0.00048480053351968033
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 43081,
+      "reset_kwargs": {
+        "seed": 43081,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.004055288218296732,
+          -0.002393096375418069,
+          0.0029953423565952653
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 43082,
+      "reset_kwargs": {
+        "seed": 43082,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0002966558394670027,
+          -0.0003745395531384865,
+          0.0006567685599478401
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 43083,
+      "reset_kwargs": {
+        "seed": 43083,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.0004082879073250556,
+          0.0009425235073572957,
+          0.001367677264061673
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 43084,
+      "reset_kwargs": {
+        "seed": 43084,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0004173047609261349,
+          -0.0004280055622506995,
+          0.00046026421674694173
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 43085,
+      "reset_kwargs": {
+        "seed": 43085,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0002657336786104775,
+          -0.0002445377646548841,
+          -0.00010566809545603517
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 43086,
+      "reset_kwargs": {
+        "seed": 43086,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0005369024341302792,
+          -0.0007471010144290968,
+          0.0011130759587839045
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 43087,
+      "reset_kwargs": {
+        "seed": 43087,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.001313463061251241,
+          -0.001119162129730955,
+          0.00191339082086045
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 43088,
+      "reset_kwargs": {
+        "seed": 43088,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00024545885556215286,
+          -1.3010628673870706e-06,
+          0.00012454626117519574
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 43089,
+      "reset_kwargs": {
+        "seed": 43089,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0005672125335677014,
+          -0.0029658281470007486,
+          0.004118217914684086
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 43090,
+      "reset_kwargs": {
+        "seed": 43090,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.003056464473144588,
+          -0.0016881219328717667,
+          0.0033083389135536434
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 43091,
+      "reset_kwargs": {
+        "seed": 43091,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          -7.700410104297117e-05,
+          0.0002338068442175878,
+          0.0002550442231576966
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 43092,
+      "reset_kwargs": {
+        "seed": 43092,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -0.00026688146910361366,
+          -0.0012824979183361784,
+          0.001435046002863094
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 43093,
+      "reset_kwargs": {
+        "seed": 43093,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          6.383981259033833e-05,
+          -0.000152096314409933,
+          0.0001279774427954683
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 43094,
+      "reset_kwargs": {
+        "seed": 43094,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0007352267520893963,
+          -8.777794614178713e-05,
+          0.0007238110000255538
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 43095,
+      "reset_kwargs": {
+        "seed": 43095,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.00033400957978409196,
+          -0.00023171018935624899,
+          -0.0009095419569978835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 43096,
+      "reset_kwargs": {
+        "seed": 43096,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          7.705903652632795e-05,
+          0.00018659987264763034,
+          0.00019848976354730485
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 43097,
+      "reset_kwargs": {
+        "seed": 43097,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0008199279026165351,
+          0.0006056014916998032,
+          0.0011247662225238875
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 43098,
+      "reset_kwargs": {
+        "seed": 43098,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.000366361035853649,
+          0.0005190209446477301,
+          -0.00014828478035278092
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 43099,
+      "reset_kwargs": {
+        "seed": 43099,
+        "model_id": "058_golf_ball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0006487935867940386,
+          -0.0009010418661767328,
+          0.0005247909143033525
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

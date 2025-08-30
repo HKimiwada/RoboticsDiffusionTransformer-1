@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 42000,
+      "reset_kwargs": {
+        "seed": 42000,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          -7.83851378989564e-05,
+          -0.0006163176935312653,
+          0.0007829360644667216
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 42001,
+      "reset_kwargs": {
+        "seed": 42001,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.00023238166123772108,
+          -0.0004839931523521468,
+          -0.00032886278825955406
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 42002,
+      "reset_kwargs": {
+        "seed": 42002,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          0.0032098066117282886,
+          0.0020896674703440588,
+          0.003589444983130241
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 42003,
+      "reset_kwargs": {
+        "seed": 42003,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.00015886496937214667,
+          -0.0005261435341606946,
+          0.001753479242324829
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 42004,
+      "reset_kwargs": {
+        "seed": 42004,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          -0.00031073856030297553,
+          -0.0006665836462272368,
+          0.0015945813199277903
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 42005,
+      "reset_kwargs": {
+        "seed": 42005,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          -0.0007130637051135369,
+          -0.0011067678469470765,
+          0.0005461248838311006
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 42006,
+      "reset_kwargs": {
+        "seed": 42006,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.00029479303057515505,
+          -0.00032819414545243175,
+          0.001899321067321158
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 42007,
+      "reset_kwargs": {
+        "seed": 42007,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0005600896098989228,
+          -2.544066360093966e-05,
+          0.0014284638848890974
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 42008,
+      "reset_kwargs": {
+        "seed": 42008,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0001426069763232063,
+          -0.000764436162597304,
+          -0.0007000163738930532
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 42009,
+      "reset_kwargs": {
+        "seed": 42009,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0009072197970500795,
+          0.001367890136790395,
+          0.0032974373337587015
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 42010,
+      "reset_kwargs": {
+        "seed": 42010,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.00016867056730701657,
+          -0.0006347243671316893,
+          0.0004400302498951958
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 42011,
+      "reset_kwargs": {
+        "seed": 42011,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.001655501394386888,
+          0.0002777103146429094,
+          0.004501197916291111
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 42012,
+      "reset_kwargs": {
+        "seed": 42012,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.0002532257058648346,
+          7.335868345187402e-05,
+          0.0017191091304508688
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 42013,
+      "reset_kwargs": {
+        "seed": 42013,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0013297095703013184,
+          0.0008343717005220852,
+          0.000868810642411677
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 42014,
+      "reset_kwargs": {
+        "seed": 42014,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 97,
+      "info": {
+        "elapsed_steps": 97,
+        "obj_to_goal_pos": [
+          -0.0007782926465876583,
+          -5.7019696072357906e-05,
+          0.001796362905158222
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 42015,
+      "reset_kwargs": {
+        "seed": 42015,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0002240552273010954,
+          0.00037833172162227147,
+          0.0011628302890220876
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 42016,
+      "reset_kwargs": {
+        "seed": 42016,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.0024474141254972326,
+          0.00228138904471642,
+          0.00480605969953235
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 42017,
+      "reset_kwargs": {
+        "seed": 42017,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 153,
+      "info": {
+        "elapsed_steps": 153,
+        "obj_to_goal_pos": [
+          0.000634315427437554,
+          0.00030116746075964373,
+          0.0021276375733012554
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 42018,
+      "reset_kwargs": {
+        "seed": 42018,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          8.038516638279869e-05,
+          -3.723769627250739e-05,
+          0.0016600392539134479
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 42019,
+      "reset_kwargs": {
+        "seed": 42019,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          -3.7294396634940385e-05,
+          -0.004934512876386077,
+          0.0035265847368368686
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 42020,
+      "reset_kwargs": {
+        "seed": 42020,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0007087539942010612,
+          -0.0006606109665685533,
+          0.00032059814970114564
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 42021,
+      "reset_kwargs": {
+        "seed": 42021,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          6.896840683426331e-05,
+          -0.0006333754789499269,
+          0.0012621785247358686
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 42022,
+      "reset_kwargs": {
+        "seed": 42022,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0004946910805500304,
+          -0.0004618100173258699,
+          1.4513238603242051e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 42023,
+      "reset_kwargs": {
+        "seed": 42023,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.00019080663122122976,
+          0.0005113649262548092,
+          1.889075224859038e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 42024,
+      "reset_kwargs": {
+        "seed": 42024,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          -0.0005226649373164804,
+          -0.00011426513508910885,
+          0.0011781056162250558
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 42025,
+      "reset_kwargs": {
+        "seed": 42025,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          -0.00012184550118835014,
+          0.00015922829639269942,
+          0.0008825249678831582
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 42026,
+      "reset_kwargs": {
+        "seed": 42026,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.00011888657279510162,
+          -0.00021746633054081643,
+          0.0005244416374626804
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 42027,
+      "reset_kwargs": {
+        "seed": 42027,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.001016474651439725,
+          -0.0008420621956262697,
+          0.003524554118607637
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 42028,
+      "reset_kwargs": {
+        "seed": 42028,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.003593601683738762,
+          0.0021006170141767977,
+          0.004244223112455536
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 42029,
+      "reset_kwargs": {
+        "seed": 42029,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0007317767378850204,
+          0.000495344101959394,
+          0.00141469638858166
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 42030,
+      "reset_kwargs": {
+        "seed": 42030,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 168,
+      "info": {
+        "elapsed_steps": 168,
+        "obj_to_goal_pos": [
+          1.3691875192928249e-05,
+          -0.00042751528274959094,
+          0.00043922458111922413
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 42031,
+      "reset_kwargs": {
+        "seed": 42031,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          -0.00043108916135584097,
+          -0.0009053399215585567,
+          0.0029494036706996796
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 42032,
+      "reset_kwargs": {
+        "seed": 42032,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -0.00029114014781297937,
+          -0.0022510576277620653,
+          0.0018051534681233772
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 42033,
+      "reset_kwargs": {
+        "seed": 42033,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.002660075341567203,
+          -0.002473934242741449,
+          0.0016314297106749254
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 42034,
+      "reset_kwargs": {
+        "seed": 42034,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.00011287715304794665,
+          0.0011395905798591288,
+          0.002407970218296418
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 42035,
+      "reset_kwargs": {
+        "seed": 42035,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.000614302793785243,
+          8.386021098821805e-05,
+          0.0010569479020987038
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 42036,
+      "reset_kwargs": {
+        "seed": 42036,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.000472704947394445,
+          0.00035001368470150007,
+          4.486532078379346e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 42037,
+      "reset_kwargs": {
+        "seed": 42037,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.00023533815670065406,
+          -0.00026225626415155023,
+          0.001083676649595522
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 42038,
+      "reset_kwargs": {
+        "seed": 42038,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          4.307385218796367e-05,
+          -0.00047623411605252075,
+          0.0010594341696187337
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 42039,
+      "reset_kwargs": {
+        "seed": 42039,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0010781157791744655,
+          0.0010273191033656204,
+          0.00647164971680686
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 42040,
+      "reset_kwargs": {
+        "seed": 42040,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0002728379776081036,
+          0.0006257164114424341,
+          4.4312396955237254e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 42041,
+      "reset_kwargs": {
+        "seed": 42041,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          -0.0006811250911463035,
+          0.0015204320561672535,
+          0.0007680171178419126
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 42042,
+      "reset_kwargs": {
+        "seed": 42042,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.003423133512877402,
+          -0.0013887572877292476,
+          0.002083539023190417
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 42043,
+      "reset_kwargs": {
+        "seed": 42043,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0005832064538629222,
+          -0.0011711615121225982,
+          0.002359916464801659
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 42044,
+      "reset_kwargs": {
+        "seed": 42044,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0006414972598524915,
+          0.00041816699636471055,
+          -4.479827160280836e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 42045,
+      "reset_kwargs": {
+        "seed": 42045,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          -0.0009267321067772671,
+          -0.0005785080819786237,
+          0.0018467797738753178
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 42046,
+      "reset_kwargs": {
+        "seed": 42046,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          -0.0007852904070534128,
+          -0.0004061904722504339,
+          0.0007006530930843691
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 42047,
+      "reset_kwargs": {
+        "seed": 42047,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0003003848484258165,
+          -0.00042233798794616417,
+          -0.0008889358875195374
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 42048,
+      "reset_kwargs": {
+        "seed": 42048,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0006196904199516073,
+          5.498688996874446e-05,
+          0.0012573441368051164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 42049,
+      "reset_kwargs": {
+        "seed": 42049,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0003478743740912005,
+          -5.7576856989982605e-05,
+          0.0016585021940636602
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 42050,
+      "reset_kwargs": {
+        "seed": 42050,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.0007671999089335357,
+          -0.00019787483430194763,
+          0.0014964586447721029
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 42051,
+      "reset_kwargs": {
+        "seed": 42051,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.00011201076979486246,
+          1.58027946781103e-05,
+          0.0006851318718417154
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 42052,
+      "reset_kwargs": {
+        "seed": 42052,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.000379640036880069,
+          0.0005305873603113076,
+          0.0015497599481877344
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 42053,
+      "reset_kwargs": {
+        "seed": 42053,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.00023289842936852212,
+          -0.0006129173910073282,
+          0.0010675406514857322
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 42054,
+      "reset_kwargs": {
+        "seed": 42054,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 98,
+      "info": {
+        "elapsed_steps": 98,
+        "obj_to_goal_pos": [
+          0.0005227317386002767,
+          -0.001125279182907779,
+          0.0014517293819362176
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 42055,
+      "reset_kwargs": {
+        "seed": 42055,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          -0.00018559009487158218,
+          -0.0002943208444142198,
+          0.0019262794724218546
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 42056,
+      "reset_kwargs": {
+        "seed": 42056,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0012162531315604574,
+          0.0008482931810767091,
+          0.0013571085359562196
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 42057,
+      "reset_kwargs": {
+        "seed": 42057,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0005262403631455803,
+          -0.000551356710965234,
+          0.0008650210135343617
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 42058,
+      "reset_kwargs": {
+        "seed": 42058,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 97,
+      "info": {
+        "elapsed_steps": 97,
+        "obj_to_goal_pos": [
+          -0.0004204965805088695,
+          0.0020707771719913892,
+          0.001079569557999649
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 42059,
+      "reset_kwargs": {
+        "seed": 42059,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.00259190137367149,
+          0.0038328846088275803,
+          0.0033567575871504274
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 42060,
+      "reset_kwargs": {
+        "seed": 42060,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          -4.8609342777963804e-05,
+          -0.0013842333190978162,
+          0.0012926102024880537
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 42061,
+      "reset_kwargs": {
+        "seed": 42061,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          -0.0002893838830597961,
+          0.00022032764454937848,
+          0.0004056773963213023
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 42062,
+      "reset_kwargs": {
+        "seed": 42062,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.0013691349394795715,
+          0.0002068797400041067,
+          0.0016168300829004223
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 42063,
+      "reset_kwargs": {
+        "seed": 42063,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0005031371886957681,
+          -0.0003217435551883252,
+          -8.895506685585586e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 42064,
+      "reset_kwargs": {
+        "seed": 42064,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0009904912713805392,
+          0.00012657967141133097,
+          0.003238600106538314
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 42065,
+      "reset_kwargs": {
+        "seed": 42065,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.00032393484299383934,
+          -0.0022273794335712638,
+          0.004260788998647569
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 42066,
+      "reset_kwargs": {
+        "seed": 42066,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 103,
+      "info": {
+        "elapsed_steps": 103,
+        "obj_to_goal_pos": [
+          0.00017059300875851835,
+          0.0009287376485351273,
+          0.0021311805818656215
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 42067,
+      "reset_kwargs": {
+        "seed": 42067,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.00044932754734716696,
+          -3.34846684997836e-05,
+          0.0016906313997415712
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 42068,
+      "reset_kwargs": {
+        "seed": 42068,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 97,
+      "info": {
+        "elapsed_steps": 97,
+        "obj_to_goal_pos": [
+          0.001350310939041477,
+          0.0004955068818353614,
+          0.0014282249551165194
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 42069,
+      "reset_kwargs": {
+        "seed": 42069,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0007308732499685805,
+          5.214818828946921e-05,
+          0.0015488543946884925
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 42070,
+      "reset_kwargs": {
+        "seed": 42070,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.00018754984687015253,
+          -0.0011350585490644272,
+          0.0019276345815847362
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 42071,
+      "reset_kwargs": {
+        "seed": 42071,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0005576970596209985,
+          0.0016214696904948145,
+          -0.0006504387665831612
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 42072,
+      "reset_kwargs": {
+        "seed": 42072,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0028811075675730657,
+          0.002541290332766788,
+          0.002272247048724585
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 42073,
+      "reset_kwargs": {
+        "seed": 42073,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          -0.0005389030634389003,
+          0.000639234405271194,
+          0.00013850556278793835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 42074,
+      "reset_kwargs": {
+        "seed": 42074,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          0.0001640732475259865,
+          -0.00025045824099734215,
+          0.0013400614029450142
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 42075,
+      "reset_kwargs": {
+        "seed": 42075,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -0.00011551346984083055,
+          -0.0004011183129222773,
+          0.001570512505755628
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 42076,
+      "reset_kwargs": {
+        "seed": 42076,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          8.663031724118198e-05,
+          0.00012706754351127225,
+          0.00017772037803515106
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 42077,
+      "reset_kwargs": {
+        "seed": 42077,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          0.0004769222912429094,
+          -0.00018353575730506444,
+          0.0012322626881767773
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 42078,
+      "reset_kwargs": {
+        "seed": 42078,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.00011494415675034064,
+          0.00010264891022204736,
+          -0.0002178170556765835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 42079,
+      "reset_kwargs": {
+        "seed": 42079,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0007208902963463382,
+          9.723378658454962e-05,
+          0.0019121793494525363
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 42080,
+      "reset_kwargs": {
+        "seed": 42080,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0006238333774920557,
+          -0.0005808602217957093,
+          0.0012744019438371001
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 42081,
+      "reset_kwargs": {
+        "seed": 42081,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          -5.658219303200651e-05,
+          0.00018116619249347599,
+          0.0002991780116669007
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 42082,
+      "reset_kwargs": {
+        "seed": 42082,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.0005762976090288863,
+          -0.00022431904956160542,
+          0.0013214644273025211
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 42083,
+      "reset_kwargs": {
+        "seed": 42083,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -0.00020870302940657892,
+          -0.00018077497101071094,
+          0.0008980659725612017
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 42084,
+      "reset_kwargs": {
+        "seed": 42084,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          2.7585749920386315e-05,
+          0.00031154614511630374,
+          0.0005884027944856873
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 42085,
+      "reset_kwargs": {
+        "seed": 42085,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.00017867008514188543,
+          -0.000390610793288948,
+          0.0015313168855529136
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 42086,
+      "reset_kwargs": {
+        "seed": 42086,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          -0.001277991337080328,
+          0.004165805447334747,
+          0.00019234561144015894
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 42087,
+      "reset_kwargs": {
+        "seed": 42087,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          -0.00012948310831381593,
+          -0.0005459980781097329,
+          0.0018640785686562245
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 42088,
+      "reset_kwargs": {
+        "seed": 42088,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.001732104326208822,
+          -0.0037553453077205923,
+          0.002237431609155127
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 42089,
+      "reset_kwargs": {
+        "seed": 42089,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0011464355149235356,
+          0.0011118423817681466,
+          0.0011244778509980624
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 42090,
+      "reset_kwargs": {
+        "seed": 42090,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.0002965614840439723,
+          -0.0005917577832406651,
+          0.001248032615364436
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 42091,
+      "reset_kwargs": {
+        "seed": 42091,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.00012948128782162838,
+          0.00012478336184412742,
+          0.0013127147120036153
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 42092,
+      "reset_kwargs": {
+        "seed": 42092,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          -0.00033120522121106444,
+          0.0012693634787390162,
+          0.0020845784519248345
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 42093,
+      "reset_kwargs": {
+        "seed": 42093,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0007333732403819737,
+          -0.001249821349854796,
+          4.856257608931713e-06
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 42094,
+      "reset_kwargs": {
+        "seed": 42094,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0015608769246502618,
+          0.00033079784305084514,
+          0.0010308263215360047
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 42095,
+      "reset_kwargs": {
+        "seed": 42095,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0012801897612988722,
+          0.0006057309366235275,
+          0.0011482380359446598
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 42096,
+      "reset_kwargs": {
+        "seed": 42096,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          5.587376692112178e-05,
+          -4.3047471443347085e-05,
+          4.9792227464706684e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 42097,
+      "reset_kwargs": {
+        "seed": 42097,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          -0.00021775606882717957,
+          0.00010747137272659746,
+          0.0009441892638881733
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 42098,
+      "reset_kwargs": {
+        "seed": 42098,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.00019064851676064976,
+          0.00020344409108824513,
+          0.0008528421750489956
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 42099,
+      "reset_kwargs": {
+        "seed": 42099,
+        "model_id": "057_racquetball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.0007624131866425798,
+          -9.850164146668616e-05,
+          0.0017380777482347565
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

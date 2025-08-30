@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 40000,
+      "reset_kwargs": {
+        "seed": 40000,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 170,
+      "info": {
+        "elapsed_steps": 170,
+        "obj_to_goal_pos": [
+          -0.00023586923155879957,
+          -0.00017619320874651123,
+          0.0015015954008436028
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 40001,
+      "reset_kwargs": {
+        "seed": 40001,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          9.090164769406939e-05,
+          -0.00036478585931504215,
+          0.0011441113473822373
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 40002,
+      "reset_kwargs": {
+        "seed": 40002,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.0016843244773675214,
+          -0.0009456188352176542,
+          0.00406808218370458
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 40003,
+      "reset_kwargs": {
+        "seed": 40003,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0003365890261327886,
+          -8.872973038326348e-05,
+          0.001698289207534065
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 40004,
+      "reset_kwargs": {
+        "seed": 40004,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0003025649784358375,
+          -0.00019632505743083506,
+          0.0026561050703365896
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 40005,
+      "reset_kwargs": {
+        "seed": 40005,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.002186971014135314,
+          0.0019189461658139506,
+          0.006159497894604571
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 40006,
+      "reset_kwargs": {
+        "seed": 40006,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          -6.604484292788149e-05,
+          4.75881388770083e-05,
+          0.002472474292946114
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 40007,
+      "reset_kwargs": {
+        "seed": 40007,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.001053187182337989,
+          0.0006872748668333983,
+          0.002805788787603014
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 40008,
+      "reset_kwargs": {
+        "seed": 40008,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0011119216638962592,
+          -5.636134711856089e-05,
+          0.0022274459793207857
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 40009,
+      "reset_kwargs": {
+        "seed": 40009,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0004227397601310606,
+          0.00046892365432837924,
+          0.0022872654236253953
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 40010,
+      "reset_kwargs": {
+        "seed": 40010,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 113,
+      "info": {
+        "elapsed_steps": 113,
+        "obj_to_goal_pos": [
+          0.0019016027803464564,
+          -0.00127309430102851,
+          0.002138368833112192
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 40011,
+      "reset_kwargs": {
+        "seed": 40011,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.0009328275115893236,
+          0.0002056822223151511,
+          0.0029323811495740038
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 40012,
+      "reset_kwargs": {
+        "seed": 40012,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0004079258939556213,
+          0.00012914034546074316,
+          0.0028047748117508986
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 40013,
+      "reset_kwargs": {
+        "seed": 40013,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          0.0011083095912072932,
+          0.0004900837966009264,
+          0.002397532857067952
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 40014,
+      "reset_kwargs": {
+        "seed": 40014,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.00048375787257445846,
+          -0.0005087207977881314,
+          0.002996563968477639
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 40015,
+      "reset_kwargs": {
+        "seed": 40015,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 163,
+      "info": {
+        "elapsed_steps": 163,
+        "obj_to_goal_pos": [
+          -0.00018138707607845417,
+          -0.00030501280131695063,
+          0.0028054416179656982
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 40016,
+      "reset_kwargs": {
+        "seed": 40016,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.0014942445300054757,
+          0.000672208267464669,
+          0.002456552339763718
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 40017,
+      "reset_kwargs": {
+        "seed": 40017,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.0002527196273487825,
+          4.456507360617312e-05,
+          0.003081182370900326
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 40018,
+      "reset_kwargs": {
+        "seed": 40018,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0002645726627464734,
+          -0.0003993248842466546,
+          0.0013732837234082251
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 40019,
+      "reset_kwargs": {
+        "seed": 40019,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0001838471337586023,
+          -0.0001330905097487456,
+          0.002096365470862338
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 40020,
+      "reset_kwargs": {
+        "seed": 40020,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          -0.00048717282300891895,
+          0.001015945351030445,
+          0.0006515625169695172
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 40021,
+      "reset_kwargs": {
+        "seed": 40021,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 92,
+      "info": {
+        "elapsed_steps": 92,
+        "obj_to_goal_pos": [
+          0.0032773752855895233,
+          -0.005082120896917897,
+          0.0019292381046964735
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 40022,
+      "reset_kwargs": {
+        "seed": 40022,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          0.0007797693319749333,
+          0.0008551245071878877,
+          0.003980952381479774
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 40023,
+      "reset_kwargs": {
+        "seed": 40023,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          0.00020633071546014015,
+          0.0002141699406110198,
+          0.001887480206088421
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 40024,
+      "reset_kwargs": {
+        "seed": 40024,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 88,
+      "info": {
+        "elapsed_steps": 88,
+        "obj_to_goal_pos": [
+          0.001250249679117743,
+          -0.001646969818877464,
+          0.0025033461200466567
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 40025,
+      "reset_kwargs": {
+        "seed": 40025,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          2.8340094705758823e-05,
+          -4.4784657984464626e-05,
+          0.0005139210072831468
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 40026,
+      "reset_kwargs": {
+        "seed": 40026,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.0003599895187850477,
+          0.0001468217117273074,
+          0.002394008273968795
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 40027,
+      "reset_kwargs": {
+        "seed": 40027,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.0002837811613916885,
+          -1.3790613946185193e-05,
+          0.0025645990553793685
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 40028,
+      "reset_kwargs": {
+        "seed": 40028,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0014147586810368817,
+          0.0007363591078223819,
+          0.002135728819659788
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 40029,
+      "reset_kwargs": {
+        "seed": 40029,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 99,
+      "info": {
+        "elapsed_steps": 99,
+        "obj_to_goal_pos": [
+          0.0013821524746863711,
+          -0.0003118086416832866,
+          0.0024715267586581935
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 40030,
+      "reset_kwargs": {
+        "seed": 40030,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          -0.0002381507350786849,
+          -0.00022705857055199674,
+          0.0013092756271362305
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 40031,
+      "reset_kwargs": {
+        "seed": 40031,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.001827048375438317,
+          0.0008456843608034004,
+          0.00512483588225443
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 40032,
+      "reset_kwargs": {
+        "seed": 40032,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 175,
+      "info": {
+        "elapsed_steps": 175,
+        "obj_to_goal_pos": [
+          -0.00035254071555332334,
+          -0.0001637487543381111,
+          0.0019526779651641846
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 40033,
+      "reset_kwargs": {
+        "seed": 40033,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0005049222191084446,
+          0.00023666393297783195,
+          0.0020605413642226234
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 40034,
+      "reset_kwargs": {
+        "seed": 40034,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.00017540780897347397,
+          2.422970023863158e-05,
+          0.002709625972649621
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 40035,
+      "reset_kwargs": {
+        "seed": 40035,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.0011187828720251591,
+          -0.0004677842841024904,
+          0.002319377367805242
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 40036,
+      "reset_kwargs": {
+        "seed": 40036,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          -0.0005279181292474344,
+          0.000427832146369711,
+          0.002320706844329834
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 40037,
+      "reset_kwargs": {
+        "seed": 40037,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          0.00020895761426195647,
+          -4.5754657284402533e-05,
+          0.002400676619278397
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 40038,
+      "reset_kwargs": {
+        "seed": 40038,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.0002845260078480072,
+          0.004102667214709532,
+          0.0042433135316294335
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 40039,
+      "reset_kwargs": {
+        "seed": 40039,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 178,
+      "info": {
+        "elapsed_steps": 178,
+        "obj_to_goal_pos": [
+          0.00046100742841334585,
+          0.000594893521641493,
+          0.002561828870013938
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 40040,
+      "reset_kwargs": {
+        "seed": 40040,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0012051080873075742,
+          -0.0014638087307338732,
+          0.0020101996244835107
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 40041,
+      "reset_kwargs": {
+        "seed": 40041,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.0002444114735212777,
+          0.001486831761279117,
+          0.004897266626358032
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 40042,
+      "reset_kwargs": {
+        "seed": 40042,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          -9.181703572133659e-05,
+          -0.000857745256755027,
+          0.0019279004027659141
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 40043,
+      "reset_kwargs": {
+        "seed": 40043,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0012970113331798178,
+          -0.002832313679051346,
+          0.0063329388983192625
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 40044,
+      "reset_kwargs": {
+        "seed": 40044,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.0010347857587871684,
+          -0.0007912359187423612,
+          0.001904796893820393
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 40045,
+      "reset_kwargs": {
+        "seed": 40045,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.00019456375559626093,
+          0.00082543994331441,
+          0.0028572660572429576
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 40046,
+      "reset_kwargs": {
+        "seed": 40046,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.0011666325860310578,
+          -0.0006265330576745165,
+          0.0027461121968915814
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 40047,
+      "reset_kwargs": {
+        "seed": 40047,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 152,
+      "info": {
+        "elapsed_steps": 152,
+        "obj_to_goal_pos": [
+          0.0013035518381357136,
+          0.000286420951229549,
+          0.002617016969850172
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 40048,
+      "reset_kwargs": {
+        "seed": 40048,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0014345725966220246,
+          0.00036198843637641476,
+          0.0026843849511495876
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 40049,
+      "reset_kwargs": {
+        "seed": 40049,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          -0.0001781379759347168,
+          -0.0011288441871820654,
+          0.00035876003949941726
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 40050,
+      "reset_kwargs": {
+        "seed": 40050,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.00012307556086280091,
+          8.062728959412624e-05,
+          0.0013302814059752421
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 40051,
+      "reset_kwargs": {
+        "seed": 40051,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.00022862365548800834,
+          -8.506990746626197e-05,
+          0.00270980770201229
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 40052,
+      "reset_kwargs": {
+        "seed": 40052,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0008645995630271186,
+          -0.0005870780843899026,
+          0.0020131048183610334
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 40053,
+      "reset_kwargs": {
+        "seed": 40053,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 165,
+      "info": {
+        "elapsed_steps": 165,
+        "obj_to_goal_pos": [
+          5.699471868930717e-05,
+          0.0003840207158763431,
+          0.00033110608147296494
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 40054,
+      "reset_kwargs": {
+        "seed": 40054,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          -0.0019404685687451628,
+          -0.000695557674481373,
+          0.0030974149703979492
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 40055,
+      "reset_kwargs": {
+        "seed": 40055,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0006662149939053175,
+          0.0015435157521362375,
+          0.0021964262904388687
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 40056,
+      "reset_kwargs": {
+        "seed": 40056,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0008057575138896017,
+          -0.0029077801109384516,
+          0.0028469900437286255
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 40057,
+      "reset_kwargs": {
+        "seed": 40057,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          1.7886542539924388e-05,
+          0.0001384629755694644,
+          0.00275128106774547
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 40058,
+      "reset_kwargs": {
+        "seed": 40058,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          0.0003857152067271302,
+          -1.0961506124340659e-05,
+          0.0007569524370902303
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 40060,
+      "reset_kwargs": {
+        "seed": 40060,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0013604310337639175,
+          0.0006575178537356341,
+          0.001974846529668839
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 40061,
+      "reset_kwargs": {
+        "seed": 40061,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0010500903207416729,
+          0.000507430755974092,
+          0.0024797100956073237
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 40062,
+      "reset_kwargs": {
+        "seed": 40062,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          -0.0001797941171466505,
+          0.0003598549309461463,
+          0.000993952455787206
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 40063,
+      "reset_kwargs": {
+        "seed": 40063,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.00014465732916218998,
+          1.9431291350957558e-05,
+          0.0008898044633899316
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 40064,
+      "reset_kwargs": {
+        "seed": 40064,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0018454915845546038,
+          8.585035008562558e-05,
+          0.006605672984232702
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 40065,
+      "reset_kwargs": {
+        "seed": 40065,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0005380247737290234,
+          -0.0008516617742226895,
+          0.0027165917698345754
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 40066,
+      "reset_kwargs": {
+        "seed": 40066,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          3.407857822054772e-05,
+          0.0004376105259905616,
+          0.0025416016578674316
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 40067,
+      "reset_kwargs": {
+        "seed": 40067,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          0.0014502418890624258,
+          -0.0007303983706786199,
+          0.004517891914251337
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 40068,
+      "reset_kwargs": {
+        "seed": 40068,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          6.454107461106862e-05,
+          0.0008151095728585744,
+          0.002274642328361609
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 40069,
+      "reset_kwargs": {
+        "seed": 40069,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 126,
+      "info": {
+        "elapsed_steps": 126,
+        "obj_to_goal_pos": [
+          0.00073125137457207,
+          0.0012189424404994154,
+          0.0026527974449971903
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 40070,
+      "reset_kwargs": {
+        "seed": 40070,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          0.000248831814500694,
+          0.00034933291026872926,
+          0.0014906092684211503
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 40071,
+      "reset_kwargs": {
+        "seed": 40071,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          -0.0005810390179147168,
+          -0.001204430185604899,
+          0.000995555556912664
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 40072,
+      "reset_kwargs": {
+        "seed": 40072,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -8.575573364044686e-05,
+          0.00024985160273627294,
+          0.0013315378241666176
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 40073,
+      "reset_kwargs": {
+        "seed": 40073,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0004352543520515506,
+          0.0018682458768005117,
+          0.004874164991745922
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 40074,
+      "reset_kwargs": {
+        "seed": 40074,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -0.00035087667598382444,
+          0.0005176195247165727,
+          0.0017039564152316333
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 40075,
+      "reset_kwargs": {
+        "seed": 40075,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 177,
+      "info": {
+        "elapsed_steps": 177,
+        "obj_to_goal_pos": [
+          0.00026819607847208826,
+          -0.00011437260214719469,
+          0.0028411206436459446
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 40076,
+      "reset_kwargs": {
+        "seed": 40076,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          0.00026815108468231097,
+          4.5292937583985005e-05,
+          0.0017466083448538505
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 40077,
+      "reset_kwargs": {
+        "seed": 40077,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.000292150752901732,
+          -0.0002576313545625819,
+          0.002385749399051784
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 40078,
+      "reset_kwargs": {
+        "seed": 40078,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 161,
+      "info": {
+        "elapsed_steps": 161,
+        "obj_to_goal_pos": [
+          0.00040127231672018593,
+          -0.00019384784462361804,
+          0.0009449053691277798
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 40079,
+      "reset_kwargs": {
+        "seed": 40079,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          0.0010079377911105664,
+          -9.002621276255063e-05,
+          0.006430070413643407
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 40080,
+      "reset_kwargs": {
+        "seed": 40080,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          0.0005388416172874277,
+          -0.00040487326764804266,
+          0.002722571055649381
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 40081,
+      "reset_kwargs": {
+        "seed": 40081,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.0014180253356529393,
+          -0.0018488885227178065,
+          0.0048224728351214385
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 40082,
+      "reset_kwargs": {
+        "seed": 40082,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0004940135769747334,
+          -0.00016912114315187354,
+          0.0017443582286148507
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 40083,
+      "reset_kwargs": {
+        "seed": 40083,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.0003745787609664708,
+          0.0002304515435520571,
+          0.001883631921391793
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 40084,
+      "reset_kwargs": {
+        "seed": 40084,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 161,
+      "info": {
+        "elapsed_steps": 161,
+        "obj_to_goal_pos": [
+          -0.0007099222114872739,
+          -0.0008297982584334895,
+          0.0009007466409365894
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 40085,
+      "reset_kwargs": {
+        "seed": 40085,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 188,
+      "info": {
+        "elapsed_steps": 188,
+        "obj_to_goal_pos": [
+          0.00027846929369676476,
+          0.0006692415628237747,
+          0.003088533878326416
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 40086,
+      "reset_kwargs": {
+        "seed": 40086,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          -0.0020534017232039514,
+          -0.001701917121969987,
+          0.001080725200387267
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 40087,
+      "reset_kwargs": {
+        "seed": 40087,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          0.0007899849600125908,
+          -2.5381954439462895e-05,
+          0.0028689066372697414
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 40088,
+      "reset_kwargs": {
+        "seed": 40088,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.00010087131699783314,
+          0.00025099572186715324,
+          0.002229973575883115
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 40089,
+      "reset_kwargs": {
+        "seed": 40089,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -0.0005534707544009587,
+          0.00015339597412272754,
+          0.0028428616170577126
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 40090,
+      "reset_kwargs": {
+        "seed": 40090,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.00048033746614262185,
+          -0.00037662277324429505,
+          0.0028716577840851576
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 40091,
+      "reset_kwargs": {
+        "seed": 40091,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          -0.0002557586077600871,
+          -0.00024548677466035285,
+          0.0014793583637005558
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 40092,
+      "reset_kwargs": {
+        "seed": 40092,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0010734783194960712,
+          -0.0036622107563322737,
+          0.004369542775983837
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 40093,
+      "reset_kwargs": {
+        "seed": 40093,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00030003848330353855,
+          0.00014395578329862158,
+          0.0017201602458953857
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 40094,
+      "reset_kwargs": {
+        "seed": 40094,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          0.00044070822756016315,
+          -0.0018656960465196493,
+          0.005460571643291334
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 40095,
+      "reset_kwargs": {
+        "seed": 40095,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          -0.000627921331027903,
+          -0.001182866442727748,
+          0.0015790457704378258
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 40096,
+      "reset_kwargs": {
+        "seed": 40096,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          -0.0019082614951393961,
+          -0.0003948257545562939,
+          0.0045920462021522
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 40097,
+      "reset_kwargs": {
+        "seed": 40097,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          -0.00041357131312177997,
+          -0.002140652453539227,
+          0.002259347007639023
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 40098,
+      "reset_kwargs": {
+        "seed": 40098,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 172,
+      "info": {
+        "elapsed_steps": 172,
+        "obj_to_goal_pos": [
+          0.0034454480587078062,
+          0.001829349752757281,
+          0.005245344242386374
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 40099,
+      "reset_kwargs": {
+        "seed": 40099,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          -0.0001281571756428651,
+          -0.0006251907148421276,
+          0.001016080379486084
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 40100,
+      "reset_kwargs": {
+        "seed": 40100,
+        "model_id": "055_baseball"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.00017113317058405075,
+          0.00017623815095796358,
+          0.002782374620437622
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

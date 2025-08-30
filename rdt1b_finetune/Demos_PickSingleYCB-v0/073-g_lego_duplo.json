@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 72000,
+      "reset_kwargs": {
+        "seed": 72000,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.00014849014079032496,
+          -0.00021522646616434216,
+          0.002087662586125083
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 72001,
+      "reset_kwargs": {
+        "seed": 72001,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0012292317750193377,
+          -0.004058398018078113,
+          0.00544704883835484
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 72002,
+      "reset_kwargs": {
+        "seed": 72002,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0006238367860403882,
+          -0.0005497326973658567,
+          0.0011644895171532
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 72003,
+      "reset_kwargs": {
+        "seed": 72003,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0002995768909709595,
+          -0.000269160147675751,
+          0.0016267258583621547
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 72004,
+      "reset_kwargs": {
+        "seed": 72004,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0031092266699002946,
+          -0.004206159586043312,
+          0.003290825437323064
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 72005,
+      "reset_kwargs": {
+        "seed": 72005,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          0.001078132641550572,
+          0.0004305872821394052,
+          0.004175066947937012
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 72006,
+      "reset_kwargs": {
+        "seed": 72006,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          -5.261201081541156e-05,
+          0.0010699870490668562,
+          0.00039192627857326245
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 72007,
+      "reset_kwargs": {
+        "seed": 72007,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.004110072311362345,
+          -0.002209480934158403,
+          0.003298850155380395
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 72008,
+      "reset_kwargs": {
+        "seed": 72008,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          -0.00011461786552249831,
+          -0.0004964522036783325,
+          0.0016829024244097712
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 72009,
+      "reset_kwargs": {
+        "seed": 72009,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 172,
+      "info": {
+        "elapsed_steps": 172,
+        "obj_to_goal_pos": [
+          2.141141567402194e-05,
+          -0.00017568939796186456,
+          0.00010011722971237091
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 72010,
+      "reset_kwargs": {
+        "seed": 72010,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 183,
+      "info": {
+        "elapsed_steps": 183,
+        "obj_to_goal_pos": [
+          -0.0002764841089969994,
+          0.00011656121093511773,
+          0.00024699397315891547
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 72011,
+      "reset_kwargs": {
+        "seed": 72011,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.00026129404877295315,
+          0.0010738670144362916,
+          9.60529546280009e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 72012,
+      "reset_kwargs": {
+        "seed": 72012,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.0007738160113107961,
+          8.126854446510734e-05,
+          0.0018906053990663807
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 72013,
+      "reset_kwargs": {
+        "seed": 72013,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          -0.0015404679097283658,
+          -0.0035349748713501827,
+          0.0010339290180470528
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 72014,
+      "reset_kwargs": {
+        "seed": 72014,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.00012966620892715386,
+          0.00015054103230460747,
+          -0.00023084664299255486
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 72015,
+      "reset_kwargs": {
+        "seed": 72015,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.00024093903826188923,
+          0.0003180818480561509,
+          0.0011609186125637327
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 72016,
+      "reset_kwargs": {
+        "seed": 72016,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          8.972751017080616e-05,
+          -2.406490479633927e-05,
+          0.0004347594558705148
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 72017,
+      "reset_kwargs": {
+        "seed": 72017,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          -0.00029882204950182345,
+          -8.566798489373362e-05,
+          -0.0003991713451259593
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 72018,
+      "reset_kwargs": {
+        "seed": 72018,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.00024705088311031964,
+          -0.0014551205079549323,
+          0.0011121932221402342
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 72019,
+      "reset_kwargs": {
+        "seed": 72019,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -0.0002678624808332697,
+          -0.00011514332869466681,
+          0.0002831900422946565
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 72020,
+      "reset_kwargs": {
+        "seed": 72020,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          3.660407203465166e-05,
+          4.13446694203512e-05,
+          0.0007282209648951099
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 72021,
+      "reset_kwargs": {
+        "seed": 72021,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 174,
+      "info": {
+        "elapsed_steps": 174,
+        "obj_to_goal_pos": [
+          -0.00056577996091349,
+          -0.0024749369399551524,
+          0.004066605004091062
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 72022,
+      "reset_kwargs": {
+        "seed": 72022,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          -5.757659595678755e-06,
+          -0.0004685931515220343,
+          0.0009960004308503523
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 72023,
+      "reset_kwargs": {
+        "seed": 72023,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          0.00010276446301218933,
+          -0.0005907677434041081,
+          0.0017084074187657117
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 72024,
+      "reset_kwargs": {
+        "seed": 72024,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          -0.0005952613630321041,
+          -4.833269270765328e-05,
+          0.0008564693431210024
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 72025,
+      "reset_kwargs": {
+        "seed": 72025,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 183,
+      "info": {
+        "elapsed_steps": 183,
+        "obj_to_goal_pos": [
+          -0.0003155330404835399,
+          -0.0001255021633576603,
+          0.0006581799970597491
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 72026,
+      "reset_kwargs": {
+        "seed": 72026,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          -0.00012332121206928837,
+          0.0001232598586218825,
+          0.0013931239456569378
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 72027,
+      "reset_kwargs": {
+        "seed": 72027,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.0013369113728731452,
+          0.0022567115687405215,
+          0.0058486222561073276
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 72028,
+      "reset_kwargs": {
+        "seed": 72028,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -0.00021398852068389707,
+          -0.0002328315243705914,
+          0.00160083889245477
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 72029,
+      "reset_kwargs": {
+        "seed": 72029,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 183,
+      "info": {
+        "elapsed_steps": 183,
+        "obj_to_goal_pos": [
+          0.0018224306323091077,
+          0.0010268587512656802,
+          0.004414536225360588
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 72030,
+      "reset_kwargs": {
+        "seed": 72030,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00033372650368840295,
+          0.00075949222860483,
+          0.0016067931960569992
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 72031,
+      "reset_kwargs": {
+        "seed": 72031,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 157,
+      "info": {
+        "elapsed_steps": 157,
+        "obj_to_goal_pos": [
+          0.0004842373017114876,
+          -0.0004740726396511574,
+          0.0017853982262178714
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 72032,
+      "reset_kwargs": {
+        "seed": 72032,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.0010094646090644255,
+          0.0006446081978366824,
+          0.0009130148573798791
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 72033,
+      "reset_kwargs": {
+        "seed": 72033,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 156,
+      "info": {
+        "elapsed_steps": 156,
+        "obj_to_goal_pos": [
+          -1.638907733615691e-05,
+          8.793892409136861e-05,
+          0.0020342068197913843
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 72034,
+      "reset_kwargs": {
+        "seed": 72034,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          3.0023142109536494e-05,
+          0.00031897389029833523,
+          0.0018530559787471867
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 72035,
+      "reset_kwargs": {
+        "seed": 72035,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -4.986373887064244e-05,
+          0.0019960622911233683,
+          -0.0005829520275225653
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 72036,
+      "reset_kwargs": {
+        "seed": 72036,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          -0.00018141201752674974,
+          -6.833565003538933e-05,
+          0.000865148616216449
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 72037,
+      "reset_kwargs": {
+        "seed": 72037,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 168,
+      "info": {
+        "elapsed_steps": 168,
+        "obj_to_goal_pos": [
+          0.0016089905952183514,
+          -0.001248441460051486,
+          0.005038852442145136
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 72038,
+      "reset_kwargs": {
+        "seed": 72038,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          -0.000122218024471904,
+          -0.00040452951323483033,
+          0.002457723157069547
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 72039,
+      "reset_kwargs": {
+        "seed": 72039,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 167,
+      "info": {
+        "elapsed_steps": 167,
+        "obj_to_goal_pos": [
+          -0.0007196556440058621,
+          0.00020592555729709305,
+          0.0013735440390788
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 72040,
+      "reset_kwargs": {
+        "seed": 72040,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 176,
+      "info": {
+        "elapsed_steps": 176,
+        "obj_to_goal_pos": [
+          -9.279237800360884e-05,
+          -8.230932613584319e-05,
+          0.0018135454822833519
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 72041,
+      "reset_kwargs": {
+        "seed": 72041,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          -0.00010162389130144445,
+          -0.0002588676435000825,
+          0.00025740385206407534
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 72042,
+      "reset_kwargs": {
+        "seed": 72042,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 159,
+      "info": {
+        "elapsed_steps": 159,
+        "obj_to_goal_pos": [
+          0.00043171473618888734,
+          -0.0018418740489248298,
+          0.005798685185146812
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 72043,
+      "reset_kwargs": {
+        "seed": 72043,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.00010295636105711603,
+          -0.00012826897659118375,
+          0.001462792664389756
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 72044,
+      "reset_kwargs": {
+        "seed": 72044,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -0.0002735489246347006,
+          -0.0010734540862643027,
+          0.0022619843377871263
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 72045,
+      "reset_kwargs": {
+        "seed": 72045,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 166,
+      "info": {
+        "elapsed_steps": 166,
+        "obj_to_goal_pos": [
+          0.0009079238891435415,
+          0.000791849932528732,
+          0.0016910102707137775
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 72046,
+      "reset_kwargs": {
+        "seed": 72046,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.00030597091124001663,
+          4.721112206951261e-05,
+          -0.00010210994581100197
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 72047,
+      "reset_kwargs": {
+        "seed": 72047,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          7.31884598030863e-05,
+          0.000201210243110872,
+          0.0010320416797902632
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 72048,
+      "reset_kwargs": {
+        "seed": 72048,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0003787291872203724,
+          -3.505221693655969e-05,
+          0.001180924512122039
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 72049,
+      "reset_kwargs": {
+        "seed": 72049,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          -0.0006134974890090739,
+          0.0017735640150767784,
+          0.002041467684527065
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 72050,
+      "reset_kwargs": {
+        "seed": 72050,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0001178526082692144,
+          9.533514753662375e-05,
+          0.0017735756329438912
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 72051,
+      "reset_kwargs": {
+        "seed": 72051,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          -0.0007364341704640953,
+          -0.00046134536814340654,
+          0.00151199540034197
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 72052,
+      "reset_kwargs": {
+        "seed": 72052,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          0.0001654806184804014,
+          -0.0010406479033641114,
+          0.0010169923947042636
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 72053,
+      "reset_kwargs": {
+        "seed": 72053,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 167,
+      "info": {
+        "elapsed_steps": 167,
+        "obj_to_goal_pos": [
+          -0.0004614270483225963,
+          3.570258848412111e-05,
+          0.0008935382805145831
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 72054,
+      "reset_kwargs": {
+        "seed": 72054,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 114,
+      "info": {
+        "elapsed_steps": 114,
+        "obj_to_goal_pos": [
+          -0.0005312709935375443,
+          -0.0007283965791113345,
+          0.00111927768804293
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 72055,
+      "reset_kwargs": {
+        "seed": 72055,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          -3.9751083414557575e-05,
+          -9.531136862128697e-05,
+          0.0010280606266914738
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 72056,
+      "reset_kwargs": {
+        "seed": 72056,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          0.0014891773755559556,
+          -0.0007965287511593755,
+          0.004662279722712381
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 72057,
+      "reset_kwargs": {
+        "seed": 72057,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          0.0004905755951800095,
+          -0.00030055930901873307,
+          0.0012047298807469353
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 72058,
+      "reset_kwargs": {
+        "seed": 72058,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.0004356858542379216,
+          -0.0004058774007549282,
+          0.0016832425911744164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 72059,
+      "reset_kwargs": {
+        "seed": 72059,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          7.550112596155234e-05,
+          -0.0001004145640354226,
+          0.0016690819979431337
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 72060,
+      "reset_kwargs": {
+        "seed": 72060,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 151,
+      "info": {
+        "elapsed_steps": 151,
+        "obj_to_goal_pos": [
+          0.0002800999250783254,
+          0.0004960199601469206,
+          0.002195139872339269
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 72061,
+      "reset_kwargs": {
+        "seed": 72061,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 168,
+      "info": {
+        "elapsed_steps": 168,
+        "obj_to_goal_pos": [
+          0.00028747807199425157,
+          -0.0006800623437940856,
+          0.0027933575794685805
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 72062,
+      "reset_kwargs": {
+        "seed": 72062,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.0007097593997904272,
+          0.0002891139364723516,
+          0.001987106489033441
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 72063,
+      "reset_kwargs": {
+        "seed": 72063,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.001134064636320986,
+          -0.0013170201681225735,
+          0.0032345757884224557
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 72064,
+      "reset_kwargs": {
+        "seed": 72064,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -6.839193502636287e-05,
+          -0.0002902551033491796,
+          0.0010020725090753024
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 72065,
+      "reset_kwargs": {
+        "seed": 72065,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 168,
+      "info": {
+        "elapsed_steps": 168,
+        "obj_to_goal_pos": [
+          0.00027447393515503404,
+          3.504300214030032e-05,
+          0.0014084022068196478
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 72066,
+      "reset_kwargs": {
+        "seed": 72066,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0001002713532161914,
+          -0.001131317601335169,
+          0.003740944406466662
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 72067,
+      "reset_kwargs": {
+        "seed": 72067,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.0011077216559698677,
+          0.00018420543138464307,
+          0.001164126197488513
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 72069,
+      "reset_kwargs": {
+        "seed": 72069,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          -0.0003682688392367961,
+          0.00017923428053312485,
+          0.001561744270936527
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 72070,
+      "reset_kwargs": {
+        "seed": 72070,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.00026156764334822613,
+          0.0002867092388187942,
+          0.0006747579342040178
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 72071,
+      "reset_kwargs": {
+        "seed": 72071,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.0002865060470454428,
+          0.00010611538130378406,
+          7.98457494844973e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 72072,
+      "reset_kwargs": {
+        "seed": 72072,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.000835906864684613,
+          -0.001122558480702529,
+          0.0022627693793207393
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 72073,
+      "reset_kwargs": {
+        "seed": 72073,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          0.0007098990021200124,
+          -0.0008010502593464586,
+          0.0033773137942019194
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 72074,
+      "reset_kwargs": {
+        "seed": 72074,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.0007752679426323572,
+          0.003429218824799851,
+          0.004929058668776798
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 72075,
+      "reset_kwargs": {
+        "seed": 72075,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.000139727931186287,
+          -0.00016139944471904588,
+          0.000621163260203561
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 72076,
+      "reset_kwargs": {
+        "seed": 72076,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          0.0030346891246233743,
+          0.00464101044516263,
+          0.001754002525330367
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 72077,
+      "reset_kwargs": {
+        "seed": 72077,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 132,
+      "info": {
+        "elapsed_steps": 132,
+        "obj_to_goal_pos": [
+          -9.751300527430229e-05,
+          -0.0008227995594344839,
+          0.0016261355953482992
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 72078,
+      "reset_kwargs": {
+        "seed": 72078,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          0.001392877547119753,
+          -0.0012528921628532363,
+          0.00623486195272166
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 72079,
+      "reset_kwargs": {
+        "seed": 72079,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          -0.001241828261257405,
+          0.00010292912276593791,
+          0.002149531697163254
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 72080,
+      "reset_kwargs": {
+        "seed": 72080,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.0001451069168459107,
+          -0.00015360869456698678,
+          0.0021791933540810104
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 72082,
+      "reset_kwargs": {
+        "seed": 72082,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 165,
+      "info": {
+        "elapsed_steps": 165,
+        "obj_to_goal_pos": [
+          0.0019951029922795904,
+          -0.0020208814381056928,
+          0.0037587767978651265
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 72083,
+      "reset_kwargs": {
+        "seed": 72083,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 167,
+      "info": {
+        "elapsed_steps": 167,
+        "obj_to_goal_pos": [
+          0.00041404783139999124,
+          -0.0005230264059067902,
+          -0.00010452643700314956
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 72084,
+      "reset_kwargs": {
+        "seed": 72084,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 116,
+      "info": {
+        "elapsed_steps": 116,
+        "obj_to_goal_pos": [
+          -0.0009403838651221852,
+          -0.0003529367904603342,
+          0.0014914910413154625
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 72085,
+      "reset_kwargs": {
+        "seed": 72085,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 149,
+      "info": {
+        "elapsed_steps": 149,
+        "obj_to_goal_pos": [
+          0.0003283830395391929,
+          -0.00030219529475239426,
+          0.0011323183727264263
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 72086,
+      "reset_kwargs": {
+        "seed": 72086,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          -8.815416918997454e-05,
+          0.0005899707757319739,
+          0.002002914423459845
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 72087,
+      "reset_kwargs": {
+        "seed": 72087,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          1.5483040783165203e-05,
+          0.0008457891152033326,
+          0.0006413498072113666
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 72088,
+      "reset_kwargs": {
+        "seed": 72088,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 146,
+      "info": {
+        "elapsed_steps": 146,
+        "obj_to_goal_pos": [
+          0.00010878202886130395,
+          0.0004026373746928158,
+          0.001933684018376458
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 72089,
+      "reset_kwargs": {
+        "seed": 72089,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 150,
+      "info": {
+        "elapsed_steps": 150,
+        "obj_to_goal_pos": [
+          -0.0004102319570054025,
+          0.0003372112264470317,
+          -0.0003943741945676149
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 72090,
+      "reset_kwargs": {
+        "seed": 72090,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0006975955481996476,
+          0.0007924019928089998,
+          0.0017366981481454768
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 72091,
+      "reset_kwargs": {
+        "seed": 72091,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 158,
+      "info": {
+        "elapsed_steps": 158,
+        "obj_to_goal_pos": [
+          -7.924743896606246e-05,
+          -6.919074493805244e-05,
+          0.0014925485191728538
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 72092,
+      "reset_kwargs": {
+        "seed": 72092,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          -0.0007633209857570988,
+          0.0011385583352320205,
+          0.00022207610774221953
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 72093,
+      "reset_kwargs": {
+        "seed": 72093,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 154,
+      "info": {
+        "elapsed_steps": 154,
+        "obj_to_goal_pos": [
+          0.000347285015840082,
+          -0.001241350666635943,
+          8.090653482029087e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 72094,
+      "reset_kwargs": {
+        "seed": 72094,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 160,
+      "info": {
+        "elapsed_steps": 160,
+        "obj_to_goal_pos": [
+          0.0003600866336501418,
+          8.986280608203057e-05,
+          0.0015608218525142714
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 72095,
+      "reset_kwargs": {
+        "seed": 72095,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 125,
+      "info": {
+        "elapsed_steps": 125,
+        "obj_to_goal_pos": [
+          -0.0015991770054588905,
+          -0.0004131409329754532,
+          0.0016324156238026744
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 72096,
+      "reset_kwargs": {
+        "seed": 72096,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          0.00013824916648691454,
+          -0.00037991768944595217,
+          0.0021427064461440604
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 72097,
+      "reset_kwargs": {
+        "seed": 72097,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 183,
+      "info": {
+        "elapsed_steps": 183,
+        "obj_to_goal_pos": [
+          -0.00014986828951299436,
+          0.0005307385581297397,
+          0.0018487582291611404
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 72098,
+      "reset_kwargs": {
+        "seed": 72098,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 169,
+      "info": {
+        "elapsed_steps": 169,
+        "obj_to_goal_pos": [
+          -0.00048668621244221666,
+          0.00011099634415312476,
+          0.0010232740959209008
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 72099,
+      "reset_kwargs": {
+        "seed": 72099,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 155,
+      "info": {
+        "elapsed_steps": 155,
+        "obj_to_goal_pos": [
+          -0.0008551015805911832,
+          0.00046338114082239423,
+          0.0015603013004996114
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 72100,
+      "reset_kwargs": {
+        "seed": 72100,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 106,
+      "info": {
+        "elapsed_steps": 106,
+        "obj_to_goal_pos": [
+          0.000948442237569444,
+          -0.0007959589159177161,
+          0.0016424294447605625
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 72101,
+      "reset_kwargs": {
+        "seed": 72101,
+        "model_id": "073-g_lego_duplo"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.00014595841857373282,
+          3.579802270559096e-06,
+          0.0014953374386927898
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}

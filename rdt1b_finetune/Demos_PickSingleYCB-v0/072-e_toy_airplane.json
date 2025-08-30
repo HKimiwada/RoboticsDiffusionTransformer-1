@@ -1,0 +1,2116 @@
+{
+  "env_info": {
+    "env_id": "PickSingleYCB-v0",
+    "max_episode_steps": 200,
+    "env_kwargs": {
+      "obs_mode": "none",
+      "control_mode": "pd_joint_pos"
+    }
+  },
+  "commit_info": {
+    "commit_id": "5927330d822df9083ef0a98c21022691a425a30e",
+    "branch": "main"
+  },
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 65000,
+      "reset_kwargs": {
+        "seed": 65000,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          3.0429963511241498e-05,
+          4.2617051393301075e-05,
+          0.00010894831905117197
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 65001,
+      "reset_kwargs": {
+        "seed": 65001,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          6.700890869390519e-06,
+          0.0004574048551361787,
+          0.00015834646234502703
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 65002,
+      "reset_kwargs": {
+        "seed": 65002,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          3.250685199907011e-05,
+          -0.00015820698823654222,
+          0.0004722299780776651
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 65003,
+      "reset_kwargs": {
+        "seed": 65003,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 109,
+      "info": {
+        "elapsed_steps": 109,
+        "obj_to_goal_pos": [
+          0.0006532944267914065,
+          0.0004269939521776567,
+          0.0009532054115998778
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 65004,
+      "reset_kwargs": {
+        "seed": 65004,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0006471017235790272,
+          -0.0007311779519045825,
+          -0.0003812007080019053
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 65005,
+      "reset_kwargs": {
+        "seed": 65005,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          -4.1794593923616397e-05,
+          0.0003492209959550241,
+          -0.00049052558367918
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 65006,
+      "reset_kwargs": {
+        "seed": 65006,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.0017684495914302156,
+          -0.0008610744709608986,
+          0.0017177918815476922
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 65007,
+      "reset_kwargs": {
+        "seed": 65007,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0002838476039453419,
+          -0.00018792347937712783,
+          0.0004658034916520948
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 65008,
+      "reset_kwargs": {
+        "seed": 65008,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0006402604217811136,
+          -0.0004393742084863872,
+          4.973107784955744e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 65009,
+      "reset_kwargs": {
+        "seed": 65009,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          -0.00031570340978984146,
+          0.00127153948338099,
+          0.004679394720570995
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 65010,
+      "reset_kwargs": {
+        "seed": 65010,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          -0.00015607950383381142,
+          -0.0005694509171966233,
+          0.0009784860992954059
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 65011,
+      "reset_kwargs": {
+        "seed": 65011,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.0002719479055798557,
+          0.0006372980872539902,
+          0.001176265843252644
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 65012,
+      "reset_kwargs": {
+        "seed": 65012,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 131,
+      "info": {
+        "elapsed_steps": 131,
+        "obj_to_goal_pos": [
+          0.00024868100976957463,
+          -0.00043859127608519843,
+          0.0006401538848876953
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 65013,
+      "reset_kwargs": {
+        "seed": 65013,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.00021680733145283682,
+          0.0008588493957423227,
+          0.0010484708948984567
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 65014,
+      "reset_kwargs": {
+        "seed": 65014,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0007695960847026728,
+          7.831618305620403e-05,
+          0.0004948020904402273
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 65015,
+      "reset_kwargs": {
+        "seed": 65015,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0007095330888675366,
+          0.0002579067478575281,
+          0.0004915807497940516
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 65016,
+      "reset_kwargs": {
+        "seed": 65016,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.00015850443924192437,
+          0.00040819471554220943,
+          0.00042190492040455885
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 65017,
+      "reset_kwargs": {
+        "seed": 65017,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.00026169783894308685,
+          -0.0005215465976252665,
+          -0.0002557950872971726
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 65018,
+      "reset_kwargs": {
+        "seed": 65018,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.0008017176830754091,
+          0.0003156011666658465,
+          0.0006725661637553837
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 65019,
+      "reset_kwargs": {
+        "seed": 65019,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.00030408166463705144,
+          0.0007888529374164288,
+          0.0010090624695430206
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 20,
+      "episode_seed": 65020,
+      "reset_kwargs": {
+        "seed": 65020,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0021823060865546473,
+          0.00043541736874253,
+          0.0038212719537695783
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 21,
+      "episode_seed": 65021,
+      "reset_kwargs": {
+        "seed": 65021,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 164,
+      "info": {
+        "elapsed_steps": 164,
+        "obj_to_goal_pos": [
+          0.0009973533474007257,
+          0.0017467802953542444,
+          0.0034215944961506484
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 22,
+      "episode_seed": 65022,
+      "reset_kwargs": {
+        "seed": 65022,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          9.443717037127541e-05,
+          0.0002881228600944974,
+          0.00039854101608427506
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 23,
+      "episode_seed": 65023,
+      "reset_kwargs": {
+        "seed": 65023,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0001698305849722609,
+          -0.0005076774098393133,
+          0.001086306623752642
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 24,
+      "episode_seed": 65024,
+      "reset_kwargs": {
+        "seed": 65024,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          -0.00017380385577489554,
+          -0.002200677003760809,
+          0.004204869339960615
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 25,
+      "episode_seed": 65025,
+      "reset_kwargs": {
+        "seed": 65025,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.0006388161127240943,
+          -0.000835287943411811,
+          0.0008137663384470972
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 26,
+      "episode_seed": 65026,
+      "reset_kwargs": {
+        "seed": 65026,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 96,
+      "info": {
+        "elapsed_steps": 96,
+        "obj_to_goal_pos": [
+          0.0002246766347088064,
+          -0.0003329793694683558,
+          0.0008302969522600012
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 27,
+      "episode_seed": 65027,
+      "reset_kwargs": {
+        "seed": 65027,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          1.2362494378873046e-05,
+          0.00025411997540808473,
+          -0.00039335404324275514
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 28,
+      "episode_seed": 65028,
+      "reset_kwargs": {
+        "seed": 65028,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.00029871773466677576,
+          -0.00010339554449728672,
+          0.0006487608383099475
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 29,
+      "episode_seed": 65029,
+      "reset_kwargs": {
+        "seed": 65029,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0002503005897568078,
+          -0.00019371911425247745,
+          0.0005748479749906887
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 30,
+      "episode_seed": 65030,
+      "reset_kwargs": {
+        "seed": 65030,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0020137794129024555,
+          0.0008770069446345508,
+          0.002974696765507545
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 31,
+      "episode_seed": 65031,
+      "reset_kwargs": {
+        "seed": 65031,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 122,
+      "info": {
+        "elapsed_steps": 122,
+        "obj_to_goal_pos": [
+          0.0003350861715979425,
+          0.0015119202047625957,
+          -0.00026075172795037016
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 32,
+      "episode_seed": 65032,
+      "reset_kwargs": {
+        "seed": 65032,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 144,
+      "info": {
+        "elapsed_steps": 144,
+        "obj_to_goal_pos": [
+          0.0004648194234822267,
+          0.0012734359965022035,
+          0.004096445228949197
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 33,
+      "episode_seed": 65033,
+      "reset_kwargs": {
+        "seed": 65033,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.0006067122026467697,
+          -9.978601383175967e-05,
+          0.0007917077787486515
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 34,
+      "episode_seed": 65034,
+      "reset_kwargs": {
+        "seed": 65034,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 170,
+      "info": {
+        "elapsed_steps": 170,
+        "obj_to_goal_pos": [
+          0.002089398355537009,
+          0.00045582809522126677,
+          0.003822904530638438
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 35,
+      "episode_seed": 65035,
+      "reset_kwargs": {
+        "seed": 65035,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          0.000381938351486491,
+          0.0002095102013561223,
+          -0.0008061296524713435
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 36,
+      "episode_seed": 65036,
+      "reset_kwargs": {
+        "seed": 65036,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 123,
+      "info": {
+        "elapsed_steps": 123,
+        "obj_to_goal_pos": [
+          -9.804474274158204e-05,
+          9.932070818902128e-05,
+          0.0006739061366567434
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 37,
+      "episode_seed": 65037,
+      "reset_kwargs": {
+        "seed": 65037,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.0004428170277360338,
+          -0.0003728445768455546,
+          0.0011889459393698565
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 38,
+      "episode_seed": 65038,
+      "reset_kwargs": {
+        "seed": 65038,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          0.00020638268735873044,
+          -9.659596728173181e-05,
+          9.965305564074711e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 39,
+      "episode_seed": 65039,
+      "reset_kwargs": {
+        "seed": 65039,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 134,
+      "info": {
+        "elapsed_steps": 134,
+        "obj_to_goal_pos": [
+          0.00020090681014049705,
+          -8.499852958698817e-07,
+          -0.0001785057083104058
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 40,
+      "episode_seed": 65040,
+      "reset_kwargs": {
+        "seed": 65040,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 157,
+      "info": {
+        "elapsed_steps": 157,
+        "obj_to_goal_pos": [
+          5.980699671527534e-05,
+          3.232578282941212e-06,
+          0.0005836188793182373
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 41,
+      "episode_seed": 65041,
+      "reset_kwargs": {
+        "seed": 65041,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.00048233699534661056,
+          0.0001842451800557754,
+          0.000582542514542872
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 42,
+      "episode_seed": 65042,
+      "reset_kwargs": {
+        "seed": 65042,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.0009688508146871028,
+          0.00019910159522795734,
+          0.0008822791329327617
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 43,
+      "episode_seed": 65043,
+      "reset_kwargs": {
+        "seed": 65043,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -0.0005060001847619067,
+          0.0007566264158669345,
+          0.0012867167256009338
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 44,
+      "episode_seed": 65044,
+      "reset_kwargs": {
+        "seed": 65044,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          9.382969902449467e-05,
+          -0.0006126878980254324,
+          0.0012550062917669469
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 45,
+      "episode_seed": 65045,
+      "reset_kwargs": {
+        "seed": 65045,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0007765381051219877,
+          0.00038554702863141666,
+          0.00029984842401997724
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 46,
+      "episode_seed": 65046,
+      "reset_kwargs": {
+        "seed": 65046,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          0.0001959015842516454,
+          -0.0002739659189848198,
+          0.0008788328546956437
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 47,
+      "episode_seed": 65047,
+      "reset_kwargs": {
+        "seed": 65047,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 100,
+      "info": {
+        "elapsed_steps": 100,
+        "obj_to_goal_pos": [
+          0.0003764937537856783,
+          -0.00011284806500833078,
+          0.00023621441052806835
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 48,
+      "episode_seed": 65048,
+      "reset_kwargs": {
+        "seed": 65048,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 101,
+      "info": {
+        "elapsed_steps": 101,
+        "obj_to_goal_pos": [
+          0.0005714134686776728,
+          -0.00026914889390333707,
+          6.226167770134738e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 49,
+      "episode_seed": 65049,
+      "reset_kwargs": {
+        "seed": 65049,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 100,
+      "info": {
+        "elapsed_steps": 100,
+        "obj_to_goal_pos": [
+          -0.0010932990925781871,
+          -0.0011372469535868013,
+          0.00025552221373581485
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 50,
+      "episode_seed": 65050,
+      "reset_kwargs": {
+        "seed": 65050,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0040925616014463595,
+          0.0007892902612023356,
+          0.0019227399968818615
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 51,
+      "episode_seed": 65051,
+      "reset_kwargs": {
+        "seed": 65051,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 105,
+      "info": {
+        "elapsed_steps": 105,
+        "obj_to_goal_pos": [
+          0.0006167328555310159,
+          0.0002061230989149898,
+          0.00039762830620376777
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 52,
+      "episode_seed": 65052,
+      "reset_kwargs": {
+        "seed": 65052,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.00011778526591496585,
+          0.00018847119145593005,
+          -0.0003204843478055164
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 53,
+      "episode_seed": 65053,
+      "reset_kwargs": {
+        "seed": 65053,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0004923305068594008,
+          -5.9872423853579715e-05,
+          0.0003311004641595172
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 54,
+      "episode_seed": 65054,
+      "reset_kwargs": {
+        "seed": 65054,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          -0.0009233227453837589,
+          -0.0012036997235250757,
+          0.000642479136180707
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 55,
+      "episode_seed": 65055,
+      "reset_kwargs": {
+        "seed": 65055,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 139,
+      "info": {
+        "elapsed_steps": 139,
+        "obj_to_goal_pos": [
+          0.0002033500287665635,
+          -0.00025791395107749304,
+          -0.0003629672571588416
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 56,
+      "episode_seed": 65056,
+      "reset_kwargs": {
+        "seed": 65056,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          0.0001712713255174747,
+          4.428428176689314e-05,
+          -0.0006726601632184304
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 57,
+      "episode_seed": 65057,
+      "reset_kwargs": {
+        "seed": 65057,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 147,
+      "info": {
+        "elapsed_steps": 147,
+        "obj_to_goal_pos": [
+          0.0009484778551955564,
+          -0.0010934906251860443,
+          0.00243135882133122
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 58,
+      "episode_seed": 65058,
+      "reset_kwargs": {
+        "seed": 65058,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 104,
+      "info": {
+        "elapsed_steps": 104,
+        "obj_to_goal_pos": [
+          0.0007204173755237242,
+          0.00010031196819992871,
+          0.00016174182804895576
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 59,
+      "episode_seed": 65059,
+      "reset_kwargs": {
+        "seed": 65059,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          -0.0010562133301578458,
+          0.00021591545195071005,
+          0.004019952964496032
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 60,
+      "episode_seed": 65060,
+      "reset_kwargs": {
+        "seed": 65060,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 121,
+      "info": {
+        "elapsed_steps": 121,
+        "obj_to_goal_pos": [
+          0.00028866061132318266,
+          3.580711417161542e-05,
+          0.0003581589190640444
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 61,
+      "episode_seed": 65061,
+      "reset_kwargs": {
+        "seed": 65061,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          0.0015083340948666146,
+          -0.002049380849077298,
+          0.001450325911158512
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 62,
+      "episode_seed": 65062,
+      "reset_kwargs": {
+        "seed": 65062,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          0.0007045345686315929,
+          -0.0005581716174826168,
+          0.0004871485907078088
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 63,
+      "episode_seed": 65063,
+      "reset_kwargs": {
+        "seed": 65063,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -0.00014234521999184624,
+          0.00033743860649426693,
+          0.0013738967808719638
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 64,
+      "episode_seed": 65064,
+      "reset_kwargs": {
+        "seed": 65064,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.00021614574095324413,
+          0.00017699889487327036,
+          -0.0002625950364416041
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 65,
+      "episode_seed": 65065,
+      "reset_kwargs": {
+        "seed": 65065,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.0003422063298617606,
+          -8.715998870401087e-05,
+          -0.0004540364890111004
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 66,
+      "episode_seed": 65066,
+      "reset_kwargs": {
+        "seed": 65066,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 133,
+      "info": {
+        "elapsed_steps": 133,
+        "obj_to_goal_pos": [
+          0.00027898133164641625,
+          -0.00015211313672591764,
+          0.0009874520496627182
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 67,
+      "episode_seed": 65067,
+      "reset_kwargs": {
+        "seed": 65067,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.000740458940529376,
+          0.00024958551973963683,
+          0.000814136436070978
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 68,
+      "episode_seed": 65068,
+      "reset_kwargs": {
+        "seed": 65068,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          3.258158358823704e-05,
+          -8.029214043797639e-05,
+          0.00012316999070655088
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 69,
+      "episode_seed": 65069,
+      "reset_kwargs": {
+        "seed": 65069,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 118,
+      "info": {
+        "elapsed_steps": 118,
+        "obj_to_goal_pos": [
+          0.00067629539513539,
+          0.00011213816616834071,
+          0.0003626237156879042
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 70,
+      "episode_seed": 65070,
+      "reset_kwargs": {
+        "seed": 65070,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 119,
+      "info": {
+        "elapsed_steps": 119,
+        "obj_to_goal_pos": [
+          -0.0004485397846636374,
+          0.0011518180943657086,
+          0.00116661491109199
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 71,
+      "episode_seed": 65071,
+      "reset_kwargs": {
+        "seed": 65071,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.00032977042614146246,
+          6.33981995771804e-05,
+          0.0005541992242821814
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 72,
+      "episode_seed": 65072,
+      "reset_kwargs": {
+        "seed": 65072,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 111,
+      "info": {
+        "elapsed_steps": 111,
+        "obj_to_goal_pos": [
+          0.0004887483628185918,
+          0.0002217564985582121,
+          0.000543291559842618
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 73,
+      "episode_seed": 65073,
+      "reset_kwargs": {
+        "seed": 65073,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0001233176032471861,
+          -6.195976600537056e-05,
+          6.808172808420165e-05
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 74,
+      "episode_seed": 65074,
+      "reset_kwargs": {
+        "seed": 65074,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 107,
+      "info": {
+        "elapsed_steps": 107,
+        "obj_to_goal_pos": [
+          0.0004415913013033068,
+          2.93052066101529e-05,
+          0.0007369616668231882
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 75,
+      "episode_seed": 65075,
+      "reset_kwargs": {
+        "seed": 65075,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 127,
+      "info": {
+        "elapsed_steps": 127,
+        "obj_to_goal_pos": [
+          -0.00010113890479232501,
+          -0.0004742578849628587,
+          -0.0006849748797222999
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 76,
+      "episode_seed": 65076,
+      "reset_kwargs": {
+        "seed": 65076,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 112,
+      "info": {
+        "elapsed_steps": 112,
+        "obj_to_goal_pos": [
+          0.001079228020289369,
+          -0.00010965701286930196,
+          0.0005379194833597944
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 77,
+      "episode_seed": 65077,
+      "reset_kwargs": {
+        "seed": 65077,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 108,
+      "info": {
+        "elapsed_steps": 108,
+        "obj_to_goal_pos": [
+          -1.953489015278642e-05,
+          0.0006180178742746789,
+          0.0016406932462254553
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 78,
+      "episode_seed": 65078,
+      "reset_kwargs": {
+        "seed": 65078,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 143,
+      "info": {
+        "elapsed_steps": 143,
+        "obj_to_goal_pos": [
+          0.0002415852997897927,
+          -0.0005958310666231981,
+          0.0008573222889260435
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 79,
+      "episode_seed": 65079,
+      "reset_kwargs": {
+        "seed": 65079,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 142,
+      "info": {
+        "elapsed_steps": 142,
+        "obj_to_goal_pos": [
+          0.0004335887625982193,
+          0.00017284372583514784,
+          0.0005583981258425186
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 80,
+      "episode_seed": 65080,
+      "reset_kwargs": {
+        "seed": 65080,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 138,
+      "info": {
+        "elapsed_steps": 138,
+        "obj_to_goal_pos": [
+          -0.00010464027313145108,
+          0.0002811139465593304,
+          -0.00036115036403577827
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 81,
+      "episode_seed": 65081,
+      "reset_kwargs": {
+        "seed": 65081,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 136,
+      "info": {
+        "elapsed_steps": 136,
+        "obj_to_goal_pos": [
+          0.000308112242121128,
+          0.00013477618062995855,
+          0.0007031495055050407
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 82,
+      "episode_seed": 65082,
+      "reset_kwargs": {
+        "seed": 65082,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 94,
+      "info": {
+        "elapsed_steps": 94,
+        "obj_to_goal_pos": [
+          -0.0006484102838569678,
+          -0.0002621169696661041,
+          -0.0003197603517323677
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 83,
+      "episode_seed": 65083,
+      "reset_kwargs": {
+        "seed": 65083,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          4.940241149639646e-05,
+          0.0006392494312033037,
+          -0.0010319346656612605
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 84,
+      "episode_seed": 65084,
+      "reset_kwargs": {
+        "seed": 65084,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 140,
+      "info": {
+        "elapsed_steps": 140,
+        "obj_to_goal_pos": [
+          0.0002718667819546494,
+          0.0008431863491117908,
+          0.0026384294033050537
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 85,
+      "episode_seed": 65085,
+      "reset_kwargs": {
+        "seed": 65085,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0005108377066773417,
+          0.000919548671196202,
+          0.0010965156836867385
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 86,
+      "episode_seed": 65086,
+      "reset_kwargs": {
+        "seed": 65086,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 148,
+      "info": {
+        "elapsed_steps": 148,
+        "obj_to_goal_pos": [
+          0.0004337452669930658,
+          0.0008721575090691602,
+          0.0009813802232427893
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 87,
+      "episode_seed": 65087,
+      "reset_kwargs": {
+        "seed": 65087,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 157,
+      "info": {
+        "elapsed_steps": 157,
+        "obj_to_goal_pos": [
+          0.00019308873896517476,
+          -0.0002444470048839631,
+          0.0007296607450870685
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 88,
+      "episode_seed": 65088,
+      "reset_kwargs": {
+        "seed": 65088,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 130,
+      "info": {
+        "elapsed_steps": 130,
+        "obj_to_goal_pos": [
+          0.000466358264477329,
+          -0.0007410716103846693,
+          -0.0009821806361949292
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 89,
+      "episode_seed": 65089,
+      "reset_kwargs": {
+        "seed": 65089,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 129,
+      "info": {
+        "elapsed_steps": 129,
+        "obj_to_goal_pos": [
+          -0.0001747819887886748,
+          -0.0006057046365152696,
+          -0.0005114917053869461
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 90,
+      "episode_seed": 65090,
+      "reset_kwargs": {
+        "seed": 65090,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 141,
+      "info": {
+        "elapsed_steps": 141,
+        "obj_to_goal_pos": [
+          -0.0005495966166927102,
+          0.0002358546633491887,
+          0.0006695687770843506
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 91,
+      "episode_seed": 65091,
+      "reset_kwargs": {
+        "seed": 65091,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 110,
+      "info": {
+        "elapsed_steps": 110,
+        "obj_to_goal_pos": [
+          0.0003498807351265121,
+          0.0024258552978080883,
+          0.0016450384827654263
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 92,
+      "episode_seed": 65092,
+      "reset_kwargs": {
+        "seed": 65092,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 124,
+      "info": {
+        "elapsed_steps": 124,
+        "obj_to_goal_pos": [
+          0.00037533432989281246,
+          0.0003752870492882976,
+          0.0007714284092998902
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 93,
+      "episode_seed": 65093,
+      "reset_kwargs": {
+        "seed": 65093,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 115,
+      "info": {
+        "elapsed_steps": 115,
+        "obj_to_goal_pos": [
+          -0.0006527699587293018,
+          -3.7257142419588885e-05,
+          0.0011928910881384702
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 94,
+      "episode_seed": 65094,
+      "reset_kwargs": {
+        "seed": 65094,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 137,
+      "info": {
+        "elapsed_steps": 137,
+        "obj_to_goal_pos": [
+          0.0007533546349021841,
+          0.0010047153161437672,
+          0.0010764642583131478
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 95,
+      "episode_seed": 65095,
+      "reset_kwargs": {
+        "seed": 65095,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 120,
+      "info": {
+        "elapsed_steps": 120,
+        "obj_to_goal_pos": [
+          0.00032128771061043504,
+          0.0009136131542920034,
+          0.0009248055434440405
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 96,
+      "episode_seed": 65096,
+      "reset_kwargs": {
+        "seed": 65096,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 135,
+      "info": {
+        "elapsed_steps": 135,
+        "obj_to_goal_pos": [
+          0.0008120505780165321,
+          -0.0009199315888046011,
+          0.0008929860989314031
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 97,
+      "episode_seed": 65097,
+      "reset_kwargs": {
+        "seed": 65097,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 128,
+      "info": {
+        "elapsed_steps": 128,
+        "obj_to_goal_pos": [
+          0.0019238266599409248,
+          0.0017995348310073656,
+          0.0027328237768163843
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 98,
+      "episode_seed": 65098,
+      "reset_kwargs": {
+        "seed": 65098,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 117,
+      "info": {
+        "elapsed_steps": 117,
+        "obj_to_goal_pos": [
+          9.434632799748544e-05,
+          4.1591977978649997e-05,
+          0.001652339003045622
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    },
+    {
+      "episode_id": 99,
+      "episode_seed": 65099,
+      "reset_kwargs": {
+        "seed": 65099,
+        "model_id": "072-e_toy_airplane"
+      },
+      "control_mode": "pd_joint_pos",
+      "elapsed_steps": 145,
+      "info": {
+        "elapsed_steps": 145,
+        "obj_to_goal_pos": [
+          0.0002453254126024984,
+          0.0003230305240305986,
+          0.0007993752674681498
+        ],
+        "is_obj_placed": true,
+        "is_robot_static": true,
+        "success": true
+      }
+    }
+  ]
+}
