@@ -1,4 +1,4 @@
-# Testing RDT-1B's ability on pick-ycb and turn-faucet tasks from ManiSkill2.
+# Testing RDT-1B's zero-shot ability on pick-ycb tasks from ManiSkill2. 
 # python -m eval_sim.eval_rdt_maniskill --pretrained_path mp_rank_00_model_states.pt --env-id StackCube-v1 --lang_embeddings_path text_embed_StackCube-v1.pt
 from typing import Callable, List, Type
 import sys
@@ -201,7 +201,7 @@ def main():
         print(f"Trial {episode+1} finished, success: {info.get('success', False)}, steps: {global_steps}")
         # After each trial ends:
         if len(video_frames) > 0:
-            out_dir = "PickCube_Videos"
+            out_dir = "PickYCB_Videos"
             os.makedirs(out_dir, exist_ok=True)
             video_path = os.path.join(out_dir, f"{env_id}_trial{episode+1}.mp4")
 
