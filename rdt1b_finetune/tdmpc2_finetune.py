@@ -1,0 +1,1 @@
+# Fine-tuning RDT-1B on PickSingleYCB task (w/access to world model)
